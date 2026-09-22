@@ -1,9 +1,0 @@
-KwaiMind uses the following third-party projects:
-
-- Qwen-Image-Edit-2511 by the Qwen Team: https://huggingface.co/Qwen/Qwen-Image-Edit-2511 (Apache-2.0)
-- DiffSynth-Studio by the ModelScope Team: https://github.com/modelscope/DiffSynth-Studio (Apache-2.0)
-- ImgEdit, REDEdit-Bench and GEdit-Bench remain subject to their respective dataset licenses and terms.
-
-No third-party model weights are distributed in this repository.
-
-The CC BY-NC-ND 4.0 license for original KwaiMind materials does not replace or restrict the original licenses of third-party components listed above. Existing third-party copyright and attribution notices remain applicable.

@@ -208,8 +208,6 @@ Unless otherwise noted, original KwaiMind code and documentation in this reposit
 - Sharing unmodified licensed materials requires appropriate attribution and compliance with the license terms.
 - The license permits producing and reproducing adapted materials for noncommercial purposes, but does not permit sharing adapted materials.
 
-Third-party components retain their original licenses; see [THIRD_PARTY_NOTICES](THIRD_PARTY_NOTICES). Model weights and datasets remain subject to their accompanying license terms. This change does not revoke rights previously granted under Apache-2.0 for earlier versions.
-
 ## Showcase
 
 <div align="center">
@@ -217,6 +215,10 @@ Third-party components retain their original licenses; see [THIRD_PARTY_NOTICES]
     <img src="assets/showcases.png" alt="KwaiMind image editing showcases" width="100%">
   </a>
 </div>
+
+## 🤝 Acknowledgements
+
+We would like to thank the developers of [Qwen-Image](https://github.com/QwenLM/Qwen-Image), [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio), [ImgEdit](https://github.com/PKU-YuanGroup/ImgEdit), [GEdit-Bench](https://github.com/stepfun-ai/Step1X-Edit), and [REDEdit-Bench](https://github.com/FireRedTeam/FireRed-Image-Edit) for sharing their work with the community.
 
 ## Citation
 
