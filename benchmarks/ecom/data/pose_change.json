@@ -1,0 +1,702 @@
+[
+  {
+    "prompt": "坐在地上，双膝收起，一只手臂环抱着腿。",
+    "id": "0000",
+    "images": [
+      "images/pose_change/0000_0.jpg"
+    ]
+  },
+  {
+    "prompt": "双臂交叉抱在胸前，自信地站立。",
+    "id": "0001",
+    "images": [
+      "images/pose_change/0001_0.jpg"
+    ]
+  },
+  {
+    "prompt": "重心移到一条腿上、另一条腿略微前伸，双手叉腰。",
+    "id": "0002",
+    "images": [
+      "images/pose_change/0002_0.jpg"
+    ]
+  },
+  {
+    "prompt": "以放松的正面姿势站立，双脚与肩同宽，双臂自然下垂。",
+    "id": "0003",
+    "images": [
+      "images/pose_change/0003_0.jpg"
+    ]
+  },
+  {
+    "prompt": "坐在地上，双膝收起，一只手臂环抱着腿。",
+    "id": "0004",
+    "images": [
+      "images/pose_change/0004_0.jpg"
+    ]
+  },
+  {
+    "prompt": "重心移到一条腿上、另一条腿略微前伸，双手叉腰。",
+    "id": "0005",
+    "images": [
+      "images/pose_change/0005_0.jpg"
+    ]
+  },
+  {
+    "prompt": "笔直站立、正对镜头，双臂自然放松地垂在身体两侧。",
+    "id": "0006",
+    "images": [
+      "images/pose_change/0006_0.jpg"
+    ]
+  },
+  {
+    "prompt": "直立站立，一只手轻轻搭在胯部。",
+    "id": "0007",
+    "images": [
+      "images/pose_change/0007_0.jpg"
+    ]
+  },
+  {
+    "prompt": "侧身站立，一只手臂轻轻横搭在腰前。",
+    "id": "0008",
+    "images": [
+      "images/pose_change/0008_0.jpg"
+    ]
+  },
+  {
+    "prompt": "坐在凳子上，双腿优雅交叠，背部挺直，双手放在膝上。",
+    "id": "0009",
+    "images": [
+      "images/pose_change/0009_0.jpg"
+    ]
+  },
+  {
+    "prompt": "正面站立，双手随意插在口袋里。",
+    "id": "0010",
+    "images": [
+      "images/pose_change/0010_0.jpg"
+    ]
+  },
+  {
+    "prompt": "坐在凳子上，双腿优雅交叠，背部挺直，双手放在膝上。",
+    "id": "0011",
+    "images": [
+      "images/pose_change/0011_0.jpg"
+    ]
+  },
+  {
+    "prompt": "直立站立，一只手轻轻搭在胯部。",
+    "id": "0012",
+    "images": [
+      "images/pose_change/0012_0.jpg"
+    ]
+  },
+  {
+    "prompt": "随意地倚靠在墙上，双脚脚踝交叉，双手插进口袋。",
+    "id": "0013",
+    "images": [
+      "images/pose_change/0013_0.jpg"
+    ]
+  },
+  {
+    "prompt": "站立，一只手轻轻提起衣摆。",
+    "id": "0014",
+    "images": [
+      "images/pose_change/0014_0.jpg"
+    ]
+  },
+  {
+    "prompt": "身体背对镜头、回眸越过肩膀回望。",
+    "id": "0015",
+    "images": [
+      "images/pose_change/0015_0.jpg"
+    ]
+  },
+  {
+    "prompt": "以放松的正面姿势站立，双脚与肩同宽，双臂自然下垂。",
+    "id": "0016",
+    "images": [
+      "images/pose_change/0016_0.jpg"
+    ]
+  },
+  {
+    "prompt": "站立，一只手轻轻提起衣摆。",
+    "id": "0017",
+    "images": [
+      "images/pose_change/0017_0.jpg"
+    ]
+  },
+  {
+    "prompt": "笔直站立、正对镜头，双臂自然放松地垂在身体两侧。",
+    "id": "0018",
+    "images": [
+      "images/pose_change/0018_0.jpg"
+    ]
+  },
+  {
+    "prompt": "以放松的正面姿势站立，双脚与肩同宽，双臂自然下垂。",
+    "id": "0019",
+    "images": [
+      "images/pose_change/0019_0.jpg"
+    ]
+  },
+  {
+    "prompt": "单膝蹲下，一只前臂搭在抬起的膝盖上。",
+    "id": "0020",
+    "images": [
+      "images/pose_change/0020_0.jpg"
+    ]
+  },
+  {
+    "prompt": "侧身站立，一只手臂轻轻横搭在腰前。",
+    "id": "0021",
+    "images": [
+      "images/pose_change/0021_0.jpg"
+    ]
+  },
+  {
+    "prompt": "笔直站立、正对镜头，双臂自然放松地垂在身体两侧。",
+    "id": "0022",
+    "images": [
+      "images/pose_change/0022_0.jpg"
+    ]
+  },
+  {
+    "prompt": "笔直站立、正对镜头，双臂自然放松地垂在身体两侧。",
+    "id": "0023",
+    "images": [
+      "images/pose_change/0023_0.jpg"
+    ]
+  },
+  {
+    "prompt": "朝前方自然迈步行走。",
+    "id": "0024",
+    "images": [
+      "images/pose_change/0024_0.jpg"
+    ]
+  },
+  {
+    "prompt": "以放松的正面姿势站立，双脚与肩同宽，双臂自然下垂。",
+    "id": "0025",
+    "images": [
+      "images/pose_change/0025_0.jpg"
+    ]
+  },
+  {
+    "prompt": "正面站立，双手随意插在口袋里。",
+    "id": "0026",
+    "images": [
+      "images/pose_change/0026_0.jpg"
+    ]
+  },
+  {
+    "prompt": "直立站立，一只手轻轻搭在胯部。",
+    "id": "0027",
+    "images": [
+      "images/pose_change/0027_0.jpg"
+    ]
+  },
+  {
+    "prompt": "身体转向四分之三侧角、头部面向镜头，一只手叉腰。",
+    "id": "0028",
+    "images": [
+      "images/pose_change/0028_0.jpg"
+    ]
+  },
+  {
+    "prompt": "坐在凳子上，双腿优雅交叠，背部挺直，双手放在膝上。",
+    "id": "0029",
+    "images": [
+      "images/pose_change/0029_0.jpg"
+    ]
+  },
+  {
+    "prompt": "笔直站立、正对镜头，双臂自然放松地垂在身体两侧。",
+    "id": "0030",
+    "images": [
+      "images/pose_change/0030_0.jpg"
+    ]
+  },
+  {
+    "prompt": "正面站立，双手随意插在口袋里。",
+    "id": "0031",
+    "images": [
+      "images/pose_change/0031_0.jpg"
+    ]
+  },
+  {
+    "prompt": "身体转向四分之三侧角、头部面向镜头，一只手叉腰。",
+    "id": "0032",
+    "images": [
+      "images/pose_change/0032_0.jpg"
+    ]
+  },
+  {
+    "prompt": "重心移到一条腿上、另一条腿略微前伸，双手叉腰。",
+    "id": "0033",
+    "images": [
+      "images/pose_change/0033_0.jpg"
+    ]
+  },
+  {
+    "prompt": "站立，一只手轻轻提起衣摆。",
+    "id": "0034",
+    "images": [
+      "images/pose_change/0034_0.jpg"
+    ]
+  },
+  {
+    "prompt": "重心移到一条腿上、另一条腿略微前伸，双手叉腰。",
+    "id": "0035",
+    "images": [
+      "images/pose_change/0035_0.jpg"
+    ]
+  },
+  {
+    "prompt": "笔直站立、正对镜头，双臂自然放松地垂在身体两侧。",
+    "id": "0036",
+    "images": [
+      "images/pose_change/0036_0.jpg"
+    ]
+  },
+  {
+    "prompt": "笔直站立、正对镜头，双臂自然放松地垂在身体两侧。",
+    "id": "0037",
+    "images": [
+      "images/pose_change/0037_0.jpg"
+    ]
+  },
+  {
+    "prompt": "抬起双臂整理头发，同时上身转向侧角。",
+    "id": "0038",
+    "images": [
+      "images/pose_change/0038_0.jpg"
+    ]
+  },
+  {
+    "prompt": "朝前方自然迈步行走。",
+    "id": "0039",
+    "images": [
+      "images/pose_change/0039_0.jpg"
+    ]
+  },
+  {
+    "prompt": "身体转向四分之三侧角、头部面向镜头，一只手叉腰。",
+    "id": "0040",
+    "images": [
+      "images/pose_change/0040_0.jpg"
+    ]
+  },
+  {
+    "prompt": "单膝蹲下，一只前臂搭在抬起的膝盖上。",
+    "id": "0041",
+    "images": [
+      "images/pose_change/0041_0.jpg"
+    ]
+  },
+  {
+    "prompt": "正面站立，双手随意插在口袋里。",
+    "id": "0042",
+    "images": [
+      "images/pose_change/0042_0.jpg"
+    ]
+  },
+  {
+    "prompt": "笔直站立、正对镜头，双臂自然放松地垂在身体两侧。",
+    "id": "0043",
+    "images": [
+      "images/pose_change/0043_0.jpg"
+    ]
+  },
+  {
+    "prompt": "身体转向四分之三侧角、头部面向镜头，一只手叉腰。",
+    "id": "0044",
+    "images": [
+      "images/pose_change/0044_0.jpg"
+    ]
+  },
+  {
+    "prompt": "朝前方自然迈步行走。",
+    "id": "0045",
+    "images": [
+      "images/pose_change/0045_0.jpg"
+    ]
+  },
+  {
+    "prompt": "坐在地上，双膝收起，一只手臂环抱着腿。",
+    "id": "0046",
+    "images": [
+      "images/pose_change/0046_0.jpg"
+    ]
+  },
+  {
+    "prompt": "以放松的正面姿势站立，双脚与肩同宽，双臂自然下垂。",
+    "id": "0047",
+    "images": [
+      "images/pose_change/0047_0.jpg"
+    ]
+  },
+  {
+    "prompt": "正面站立，双手随意插在口袋里。",
+    "id": "0048",
+    "images": [
+      "images/pose_change/0048_0.jpg"
+    ]
+  },
+  {
+    "prompt": "抬起双臂整理头发，同时上身转向侧角。",
+    "id": "0049",
+    "images": [
+      "images/pose_change/0049_0.jpg"
+    ]
+  },
+  {
+    "prompt": "以放松的正面姿势站立，双脚与肩同宽，双臂自然下垂。",
+    "id": "0050",
+    "images": [
+      "images/pose_change/0050_0.jpg"
+    ]
+  },
+  {
+    "prompt": "身体转向四分之三侧角、头部面向镜头，一只手叉腰。",
+    "id": "0051",
+    "images": [
+      "images/pose_change/0051_0.jpg"
+    ]
+  },
+  {
+    "prompt": "以放松的正面姿势站立，双脚与肩同宽，双臂自然下垂。",
+    "id": "0052",
+    "images": [
+      "images/pose_change/0052_0.jpg"
+    ]
+  },
+  {
+    "prompt": "侧身站立，一只手臂轻轻横搭在腰前。",
+    "id": "0053",
+    "images": [
+      "images/pose_change/0053_0.jpg"
+    ]
+  },
+  {
+    "prompt": "身体转向四分之三侧角、头部面向镜头，一只手叉腰。",
+    "id": "0054",
+    "images": [
+      "images/pose_change/0054_0.jpg"
+    ]
+  },
+  {
+    "prompt": "朝前方自然迈步行走。",
+    "id": "0055",
+    "images": [
+      "images/pose_change/0055_0.jpg"
+    ]
+  },
+  {
+    "prompt": "直立站立，一只手轻轻搭在胯部。",
+    "id": "0056",
+    "images": [
+      "images/pose_change/0056_0.jpg"
+    ]
+  },
+  {
+    "prompt": "正面站立，双手随意插在口袋里。",
+    "id": "0057",
+    "images": [
+      "images/pose_change/0057_0.jpg"
+    ]
+  },
+  {
+    "prompt": "站立，一只手轻轻提起衣摆。",
+    "id": "0058",
+    "images": [
+      "images/pose_change/0058_0.jpg"
+    ]
+  },
+  {
+    "prompt": "正面站立，双手随意插在口袋里。",
+    "id": "0059",
+    "images": [
+      "images/pose_change/0059_0.jpg"
+    ]
+  },
+  {
+    "prompt": "笔直站立、正对镜头，双臂自然放松地垂在身体两侧。",
+    "id": "0060",
+    "images": [
+      "images/pose_change/0060_0.jpg"
+    ]
+  },
+  {
+    "prompt": "身体转向四分之三侧角、头部面向镜头，一只手叉腰。",
+    "id": "0061",
+    "images": [
+      "images/pose_change/0061_0.jpg"
+    ]
+  },
+  {
+    "prompt": "正面站立，双手随意插在口袋里。",
+    "id": "0062",
+    "images": [
+      "images/pose_change/0062_0.jpg"
+    ]
+  },
+  {
+    "prompt": "以放松的正面姿势站立，双脚与肩同宽，双臂自然下垂。",
+    "id": "0063",
+    "images": [
+      "images/pose_change/0063_0.jpg"
+    ]
+  },
+  {
+    "prompt": "侧身站立，一只手臂轻轻横搭在腰前。",
+    "id": "0064",
+    "images": [
+      "images/pose_change/0064_0.jpg"
+    ]
+  },
+  {
+    "prompt": "身体转向四分之三侧角、头部面向镜头，一只手叉腰。",
+    "id": "0065",
+    "images": [
+      "images/pose_change/0065_0.jpg"
+    ]
+  },
+  {
+    "prompt": "站立，一只手轻轻提起衣摆。",
+    "id": "0066",
+    "images": [
+      "images/pose_change/0066_0.jpg"
+    ]
+  },
+  {
+    "prompt": "站立，一只手抬起触碰衣领或肩部。",
+    "id": "0067",
+    "images": [
+      "images/pose_change/0067_0.jpg"
+    ]
+  },
+  {
+    "prompt": "身体转向四分之三侧角、头部面向镜头，一只手叉腰。",
+    "id": "0068",
+    "images": [
+      "images/pose_change/0068_0.jpg"
+    ]
+  },
+  {
+    "prompt": "重心移到一条腿上、另一条腿略微前伸，双手叉腰。",
+    "id": "0069",
+    "images": [
+      "images/pose_change/0069_0.jpg"
+    ]
+  },
+  {
+    "prompt": "站立，一只手轻轻提起衣摆。",
+    "id": "0070",
+    "images": [
+      "images/pose_change/0070_0.jpg"
+    ]
+  },
+  {
+    "prompt": "以放松的正面姿势站立，双脚与肩同宽，双臂自然下垂。",
+    "id": "0071",
+    "images": [
+      "images/pose_change/0071_0.jpg"
+    ]
+  },
+  {
+    "prompt": "以放松的正面姿势站立，双脚与肩同宽，双臂自然下垂。",
+    "id": "0072",
+    "images": [
+      "images/pose_change/0072_0.jpg"
+    ]
+  },
+  {
+    "prompt": "坐在凳子上，双腿优雅交叠，背部挺直，双手放在膝上。",
+    "id": "0073",
+    "images": [
+      "images/pose_change/0073_0.jpg"
+    ]
+  },
+  {
+    "prompt": "朝前方自然迈步行走。",
+    "id": "0074",
+    "images": [
+      "images/pose_change/0074_0.jpg"
+    ]
+  },
+  {
+    "prompt": "抬起双臂整理头发，同时上身转向侧角。",
+    "id": "0075",
+    "images": [
+      "images/pose_change/0075_0.jpg"
+    ]
+  },
+  {
+    "prompt": "身体背对镜头、回眸越过肩膀回望。",
+    "id": "0076",
+    "images": [
+      "images/pose_change/0076_0.jpg"
+    ]
+  },
+  {
+    "prompt": "站立，一只手轻轻提起衣摆。",
+    "id": "0077",
+    "images": [
+      "images/pose_change/0077_0.jpg"
+    ]
+  },
+  {
+    "prompt": "正面站立，双手随意插在口袋里。",
+    "id": "0078",
+    "images": [
+      "images/pose_change/0078_0.jpg"
+    ]
+  },
+  {
+    "prompt": "站立，一只手轻轻提起衣摆。",
+    "id": "0079",
+    "images": [
+      "images/pose_change/0079_0.jpg"
+    ]
+  },
+  {
+    "prompt": "单膝蹲下，一只前臂搭在抬起的膝盖上。",
+    "id": "0080",
+    "images": [
+      "images/pose_change/0080_0.jpg"
+    ]
+  },
+  {
+    "prompt": "双臂交叉抱在胸前，自信地站立。",
+    "id": "0081",
+    "images": [
+      "images/pose_change/0081_0.jpg"
+    ]
+  },
+  {
+    "prompt": "重心移到一条腿上、另一条腿略微前伸，双手叉腰。",
+    "id": "0082",
+    "images": [
+      "images/pose_change/0082_0.jpg"
+    ]
+  },
+  {
+    "prompt": "重心移到一条腿上、另一条腿略微前伸，双手叉腰。",
+    "id": "0083",
+    "images": [
+      "images/pose_change/0083_0.jpg"
+    ]
+  },
+  {
+    "prompt": "站立，一只手轻轻提起衣摆。",
+    "id": "0084",
+    "images": [
+      "images/pose_change/0084_0.jpg"
+    ]
+  },
+  {
+    "prompt": "抬起双臂整理头发，同时上身转向侧角。",
+    "id": "0085",
+    "images": [
+      "images/pose_change/0085_0.jpg"
+    ]
+  },
+  {
+    "prompt": "站立，一只手轻轻提起衣摆。",
+    "id": "0086",
+    "images": [
+      "images/pose_change/0086_0.jpg"
+    ]
+  },
+  {
+    "prompt": "笔直站立、正对镜头，双臂自然放松地垂在身体两侧。",
+    "id": "0087",
+    "images": [
+      "images/pose_change/0087_0.jpg"
+    ]
+  },
+  {
+    "prompt": "站立，一只手抬起触碰衣领或肩部。",
+    "id": "0088",
+    "images": [
+      "images/pose_change/0088_0.jpg"
+    ]
+  },
+  {
+    "prompt": "正面站立，双手随意插在口袋里。",
+    "id": "0089",
+    "images": [
+      "images/pose_change/0089_0.jpg"
+    ]
+  },
+  {
+    "prompt": "正面站立，双手随意插在口袋里。",
+    "id": "0090",
+    "images": [
+      "images/pose_change/0090_0.jpg"
+    ]
+  },
+  {
+    "prompt": "以放松的正面姿势站立，双脚与肩同宽，双臂自然下垂。",
+    "id": "0091",
+    "images": [
+      "images/pose_change/0091_0.jpg"
+    ]
+  },
+  {
+    "prompt": "笔直站立、正对镜头，双臂自然放松地垂在身体两侧。",
+    "id": "0092",
+    "images": [
+      "images/pose_change/0092_0.jpg"
+    ]
+  },
+  {
+    "prompt": "正面站立，双手随意插在口袋里。",
+    "id": "0093",
+    "images": [
+      "images/pose_change/0093_0.jpg"
+    ]
+  },
+  {
+    "prompt": "侧身站立，一只手臂轻轻横搭在腰前。",
+    "id": "0094",
+    "images": [
+      "images/pose_change/0094_0.jpg"
+    ]
+  },
+  {
+    "prompt": "笔直站立、正对镜头，双臂自然放松地垂在身体两侧。",
+    "id": "0095",
+    "images": [
+      "images/pose_change/0095_0.jpg"
+    ]
+  },
+  {
+    "prompt": "随意地倚靠在墙上，双脚脚踝交叉，双手插进口袋。",
+    "id": "0096",
+    "images": [
+      "images/pose_change/0096_0.jpg"
+    ]
+  },
+  {
+    "prompt": "身体背对镜头、回眸越过肩膀回望。",
+    "id": "0097",
+    "images": [
+      "images/pose_change/0097_0.jpg"
+    ]
+  },
+  {
+    "prompt": "笔直站立、正对镜头，双臂自然放松地垂在身体两侧。",
+    "id": "0098",
+    "images": [
+      "images/pose_change/0098_0.jpg"
+    ]
+  },
+  {
+    "prompt": "呈现动态的运动中姿态，身体扭转。",
+    "id": "0099",
+    "images": [
+      "images/pose_change/0099_0.jpg"
+    ]
+  }
+]

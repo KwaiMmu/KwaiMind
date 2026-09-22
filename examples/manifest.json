@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0000",
+    "prompt": "Transfer the image into a Lego-brick stop-motion diorama style.",
+    "images": [
+      "images/input_Lego.png"
+    ]
+  },
+  {
+    "id": "0001",
+    "prompt": "商品类别为女装-T恤。生成穿着该服装的中国模特图，配以合适的背景和穿搭。\n真实感，去磨皮感，模特处于画面居中位置，网红感，生活感。\n如果是上身衣物，生成膝上像；如果是下身衣物，生成腰下像；如果是全身衣物，生成全身像。",
+    "images": [
+      "images/input.png"
+    ]
+  }
+]

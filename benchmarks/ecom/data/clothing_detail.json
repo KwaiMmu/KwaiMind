@@ -1,0 +1,1302 @@
+[
+  {
+    "prompt": "展示女装套装/学生校服/工作制服其他套装衣摆的细节图",
+    "bbox": [
+      0.513,
+      0.631,
+      0.663,
+      0.856
+    ],
+    "id": "0000",
+    "images": [
+      "images/clothing_detail/0000_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装半身裙口袋的细节图",
+    "bbox": [
+      0.428,
+      0.395,
+      0.552,
+      0.563
+    ],
+    "id": "0001",
+    "images": [
+      "images/clothing_detail/0001_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装马夹/坎肩面料的细节图",
+    "bbox": [
+      0.545,
+      0.587,
+      0.781,
+      0.755
+    ],
+    "id": "0002",
+    "images": [
+      "images/clothing_detail/0002_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子休闲裤平铺设计的细节图",
+    "bbox": [
+      0.381,
+      0.058,
+      0.568,
+      0.303
+    ],
+    "id": "0003",
+    "images": [
+      "images/clothing_detail/0003_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装蕾丝衫/雪纺衫蕾丝/绣花的细节图",
+    "bbox": [
+      0.706,
+      0.697,
+      0.824,
+      0.88
+    ],
+    "id": "0004",
+    "images": [
+      "images/clothing_detail/0004_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装套装/学生校服/工作制服休闲套装面料的细节图",
+    "bbox": [
+      0.497,
+      0.757,
+      0.642,
+      0.989
+    ],
+    "id": "0005",
+    "images": [
+      "images/clothing_detail/0005_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装马夹/坎肩平铺设计的细节图",
+    "bbox": [
+      0.142,
+      0.308,
+      0.429,
+      0.575
+    ],
+    "id": "0006",
+    "images": [
+      "images/clothing_detail/0006_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装套装/学生校服/工作制服其他套装袖口的细节图",
+    "bbox": [
+      0.608,
+      0.287,
+      0.794,
+      0.521
+    ],
+    "id": "0007",
+    "images": [
+      "images/clothing_detail/0007_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装内搭打底衫平铺设计的细节图",
+    "bbox": [
+      0.303,
+      0.334,
+      0.521,
+      0.563
+    ],
+    "id": "0008",
+    "images": [
+      "images/clothing_detail/0008_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子休闲裤裤腰的细节图",
+    "bbox": [
+      0.275,
+      0.033,
+      0.622,
+      0.275
+    ],
+    "id": "0009",
+    "images": [
+      "images/clothing_detail/0009_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装套装/学生校服/工作制服其他套装袖口的细节图",
+    "bbox": [
+      0.563,
+      0.329,
+      0.611,
+      0.407
+    ],
+    "id": "0010",
+    "images": [
+      "images/clothing_detail/0010_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装内搭打底衫袖口的细节图",
+    "bbox": [
+      0.353,
+      0.421,
+      0.482,
+      0.618
+    ],
+    "id": "0011",
+    "images": [
+      "images/clothing_detail/0011_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子牛仔裤裤脚的细节图",
+    "bbox": [
+      0.584,
+      0.759,
+      0.715,
+      0.94
+    ],
+    "id": "0012",
+    "images": [
+      "images/clothing_detail/0012_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装衬衫门襟的细节图",
+    "bbox": [
+      0.345,
+      0.355,
+      0.497,
+      0.626
+    ],
+    "id": "0013",
+    "images": [
+      "images/clothing_detail/0013_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装半身裙裙摆的细节图",
+    "bbox": [
+      0.608,
+      0.652,
+      0.893,
+      0.963
+    ],
+    "id": "0014",
+    "images": [
+      "images/clothing_detail/0014_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装套装/学生校服/工作制服其他套装衣摆的细节图",
+    "bbox": [
+      0.133,
+      0.569,
+      0.403,
+      0.744
+    ],
+    "id": "0015",
+    "images": [
+      "images/clothing_detail/0015_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装毛针织衫套头针织衫面料纹理的细节图",
+    "bbox": [
+      0.375,
+      0.366,
+      0.545,
+      0.592
+    ],
+    "id": "0016",
+    "images": [
+      "images/clothing_detail/0016_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装皮草面料的细节图",
+    "bbox": [
+      0.532,
+      0.757,
+      0.715,
+      1.0
+    ],
+    "id": "0017",
+    "images": [
+      "images/clothing_detail/0017_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装皮草面料的细节图",
+    "bbox": [
+      0.529,
+      0.39,
+      0.659,
+      0.642
+    ],
+    "id": "0018",
+    "images": [
+      "images/clothing_detail/0018_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装短外套面料的细节图",
+    "bbox": [
+      0.786,
+      0.329,
+      0.888,
+      0.526
+    ],
+    "id": "0019",
+    "images": [
+      "images/clothing_detail/0019_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装棉衣/棉服拉链/扣子的细节图",
+    "bbox": [
+      0.417,
+      0.188,
+      0.545,
+      0.659
+    ],
+    "id": "0020",
+    "images": [
+      "images/clothing_detail/0020_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装羽绒服衣摆的细节图",
+    "bbox": [
+      0.319,
+      0.414,
+      0.606,
+      0.588
+    ],
+    "id": "0021",
+    "images": [
+      "images/clothing_detail/0021_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子休闲裤面料的细节图",
+    "bbox": [
+      0.524,
+      0.545,
+      0.806,
+      0.999
+    ],
+    "id": "0022",
+    "images": [
+      "images/clothing_detail/0022_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装卫衣/绒衫帽檐的细节图",
+    "bbox": [
+      0.624,
+      0.241,
+      0.804,
+      0.381
+    ],
+    "id": "0023",
+    "images": [
+      "images/clothing_detail/0023_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装毛针织衫针织开衫衣摆的细节图",
+    "bbox": [
+      0.349,
+      0.757,
+      0.804,
+      0.908
+    ],
+    "id": "0024",
+    "images": [
+      "images/clothing_detail/0024_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子休闲裤裤脚的细节图",
+    "bbox": [
+      0.332,
+      0.638,
+      0.684,
+      0.775
+    ],
+    "id": "0025",
+    "images": [
+      "images/clothing_detail/0025_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子牛仔裤腰头的细节图",
+    "bbox": [
+      0.362,
+      0.189,
+      0.622,
+      0.334
+    ],
+    "id": "0026",
+    "images": [
+      "images/clothing_detail/0026_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装内搭打底衫缝线的细节图",
+    "bbox": [
+      0.521,
+      0.51,
+      0.765,
+      0.856
+    ],
+    "id": "0027",
+    "images": [
+      "images/clothing_detail/0027_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装毛衣面料纹理的细节图",
+    "bbox": [
+      0.508,
+      0.587,
+      0.783,
+      0.929
+    ],
+    "id": "0028",
+    "images": [
+      "images/clothing_detail/0028_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装内搭打底衫平铺设计的细节图",
+    "bbox": [
+      0.171,
+      0.116,
+      0.735,
+      0.715
+    ],
+    "id": "0029",
+    "images": [
+      "images/clothing_detail/0029_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装衬衫领口的细节图",
+    "bbox": [
+      0.342,
+      0.343,
+      0.597,
+      0.458
+    ],
+    "id": "0030",
+    "images": [
+      "images/clothing_detail/0030_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装马夹/坎肩领口的细节图",
+    "bbox": [
+      0.423,
+      0.136,
+      0.626,
+      0.273
+    ],
+    "id": "0031",
+    "images": [
+      "images/clothing_detail/0031_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装内搭打底衫衣摆的细节图",
+    "bbox": [
+      0.545,
+      0.892,
+      0.876,
+      0.959
+    ],
+    "id": "0032",
+    "images": [
+      "images/clothing_detail/0032_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装短外套平铺设计的细节图",
+    "bbox": [
+      0.506,
+      0.075,
+      0.999,
+      0.73
+    ],
+    "id": "0033",
+    "images": [
+      "images/clothing_detail/0033_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装马夹/坎肩面料的细节图",
+    "bbox": [
+      0.608,
+      0.515,
+      0.788,
+      0.679
+    ],
+    "id": "0034",
+    "images": [
+      "images/clothing_detail/0034_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装内搭打底衫领口的细节图",
+    "bbox": [
+      0.563,
+      0.39,
+      0.65,
+      0.444
+    ],
+    "id": "0035",
+    "images": [
+      "images/clothing_detail/0035_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子休闲裤平铺设计的细节图",
+    "bbox": [
+      0.498,
+      0.587,
+      0.831,
+      0.868
+    ],
+    "id": "0036",
+    "images": [
+      "images/clothing_detail/0036_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装卫衣/绒衫衣摆的细节图",
+    "bbox": [
+      0.29,
+      0.757,
+      0.55,
+      0.903
+    ],
+    "id": "0037",
+    "images": [
+      "images/clothing_detail/0037_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装大码女装大码裤装裤脚的细节图",
+    "bbox": [
+      0.431,
+      0.784,
+      0.529,
+      0.856
+    ],
+    "id": "0038",
+    "images": [
+      "images/clothing_detail/0038_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装衬衫袖口的细节图",
+    "bbox": [
+      0.131,
+      0.198,
+      0.252,
+      0.483
+    ],
+    "id": "0039",
+    "images": [
+      "images/clothing_detail/0039_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子女士卫裤裤脚的细节图",
+    "bbox": [
+      0.529,
+      0.89,
+      0.735,
+      0.995
+    ],
+    "id": "0040",
+    "images": [
+      "images/clothing_detail/0040_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装羽绒服面料的细节图",
+    "bbox": [
+      0.313,
+      0.376,
+      0.506,
+      0.584
+    ],
+    "id": "0041",
+    "images": [
+      "images/clothing_detail/0041_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装卫衣/绒衫平铺设计的细节图",
+    "bbox": [
+      0.305,
+      0.065,
+      0.686,
+      0.347
+    ],
+    "id": "0042",
+    "images": [
+      "images/clothing_detail/0042_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装内搭打底衫衣摆的细节图",
+    "bbox": [
+      0.212,
+      0.587,
+      0.502,
+      0.786
+    ],
+    "id": "0043",
+    "images": [
+      "images/clothing_detail/0043_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装短外套袖口的细节图",
+    "bbox": [
+      0.252,
+      0.784,
+      0.368,
+      0.915
+    ],
+    "id": "0044",
+    "images": [
+      "images/clothing_detail/0044_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装内搭打底衫领口的细节图",
+    "bbox": [
+      0.269,
+      0.0,
+      0.493,
+      0.114
+    ],
+    "id": "0045",
+    "images": [
+      "images/clothing_detail/0045_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装皮草衣摆的细节图",
+    "bbox": [
+      0.725,
+      0.587,
+      0.891,
+      0.831
+    ],
+    "id": "0046",
+    "images": [
+      "images/clothing_detail/0046_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装套装/学生校服/工作制服其他套装平铺设计的细节图",
+    "bbox": [
+      0.467,
+      0.267,
+      0.799,
+      0.786
+    ],
+    "id": "0047",
+    "images": [
+      "images/clothing_detail/0047_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装羽绒服袖口的细节图",
+    "bbox": [
+      0.477,
+      0.433,
+      0.622,
+      0.608
+    ],
+    "id": "0048",
+    "images": [
+      "images/clothing_detail/0048_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装棉衣/棉服衣摆的细节图",
+    "bbox": [
+      0.298,
+      0.716,
+      0.453,
+      0.861
+    ],
+    "id": "0049",
+    "images": [
+      "images/clothing_detail/0049_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子休闲裤裤脚的细节图",
+    "bbox": [
+      0.018,
+      0.757,
+      0.188,
+      0.922
+    ],
+    "id": "0050",
+    "images": [
+      "images/clothing_detail/0050_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装羽绒服面料的细节图",
+    "bbox": [
+      0.584,
+      0.366,
+      0.715,
+      0.501
+    ],
+    "id": "0051",
+    "images": [
+      "images/clothing_detail/0051_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装短外套袖口的细节图",
+    "bbox": [
+      0.897,
+      0.784,
+      0.979,
+      0.836
+    ],
+    "id": "0052",
+    "images": [
+      "images/clothing_detail/0052_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装短外套面料的细节图",
+    "bbox": [
+      0.574,
+      0.419,
+      0.68,
+      0.52
+    ],
+    "id": "0053",
+    "images": [
+      "images/clothing_detail/0053_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装羽绒服口袋的细节图",
+    "bbox": [
+      0.545,
+      0.757,
+      0.608,
+      0.874
+    ],
+    "id": "0054",
+    "images": [
+      "images/clothing_detail/0054_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装毛衣面料的细节图",
+    "bbox": [
+      0.401,
+      0.614,
+      0.608,
+      0.804
+    ],
+    "id": "0055",
+    "images": [
+      "images/clothing_detail/0055_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装皮草毛领的细节图",
+    "bbox": [
+      0.345,
+      0.217,
+      0.608,
+      0.417
+    ],
+    "id": "0056",
+    "images": [
+      "images/clothing_detail/0056_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装套装/学生校服/工作制服其他套装袖口的细节图",
+    "bbox": [
+      0.792,
+      0.211,
+      0.878,
+      0.28
+    ],
+    "id": "0057",
+    "images": [
+      "images/clothing_detail/0057_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装短外套领口的细节图",
+    "bbox": [
+      0.417,
+      0.189,
+      0.663,
+      0.439
+    ],
+    "id": "0058",
+    "images": [
+      "images/clothing_detail/0058_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装连衣裙裙摆的细节图",
+    "bbox": [
+      0.408,
+      0.403,
+      0.627,
+      0.638
+    ],
+    "id": "0059",
+    "images": [
+      "images/clothing_detail/0059_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装内搭打底衫衣摆的细节图",
+    "bbox": [
+      0.06,
+      0.587,
+      0.335,
+      0.727
+    ],
+    "id": "0060",
+    "images": [
+      "images/clothing_detail/0060_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装内搭打底衫领口的细节图",
+    "bbox": [
+      0.255,
+      0.198,
+      0.715,
+      0.461
+    ],
+    "id": "0061",
+    "images": [
+      "images/clothing_detail/0061_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子休闲裤面料的细节图",
+    "bbox": [
+      0.501,
+      0.757,
+      0.608,
+      1.0
+    ],
+    "id": "0062",
+    "images": [
+      "images/clothing_detail/0062_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装连衣裙裙摆的细节图",
+    "bbox": [
+      0.348,
+      0.51,
+      0.569,
+      0.92
+    ],
+    "id": "0063",
+    "images": [
+      "images/clothing_detail/0063_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装短外套平铺设计的细节图",
+    "bbox": [
+      0.353,
+      0.243,
+      0.612,
+      0.574
+    ],
+    "id": "0064",
+    "images": [
+      "images/clothing_detail/0064_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子女士卫裤腰头的细节图",
+    "bbox": [
+      0.332,
+      0.223,
+      0.482,
+      0.28
+    ],
+    "id": "0065",
+    "images": [
+      "images/clothing_detail/0065_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装羽绒服平铺设计的细节图",
+    "bbox": [
+      0.255,
+      0.181,
+      0.718,
+      0.941
+    ],
+    "id": "0066",
+    "images": [
+      "images/clothing_detail/0066_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装毛针织衫针织开衫袖口的细节图",
+    "bbox": [
+      0.706,
+      0.569,
+      0.786,
+      0.68
+    ],
+    "id": "0067",
+    "images": [
+      "images/clothing_detail/0067_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子牛仔裤平铺设计的细节图",
+    "bbox": [
+      0.321,
+      0.036,
+      0.693,
+      0.574
+    ],
+    "id": "0068",
+    "images": [
+      "images/clothing_detail/0068_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装衬衫门襟的细节图",
+    "bbox": [
+      0.396,
+      0.566,
+      0.502,
+      0.76
+    ],
+    "id": "0069",
+    "images": [
+      "images/clothing_detail/0069_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装套装/学生校服/工作制服其他套装袖口的细节图",
+    "bbox": [
+      0.423,
+      0.342,
+      0.48,
+      0.401
+    ],
+    "id": "0070",
+    "images": [
+      "images/clothing_detail/0070_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装短外套衣摆的细节图",
+    "bbox": [
+      0.258,
+      0.759,
+      0.477,
+      0.977
+    ],
+    "id": "0071",
+    "images": [
+      "images/clothing_detail/0071_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装连衣裙面料的细节图",
+    "bbox": [
+      0.567,
+      0.519,
+      0.664,
+      0.725
+    ],
+    "id": "0072",
+    "images": [
+      "images/clothing_detail/0072_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装羽绒服衣摆的细节图",
+    "bbox": [
+      0.131,
+      0.711,
+      0.592,
+      0.946
+    ],
+    "id": "0073",
+    "images": [
+      "images/clothing_detail/0073_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装内搭打底裤面料的细节图",
+    "bbox": [
+      0.508,
+      0.517,
+      0.68,
+      0.971
+    ],
+    "id": "0074",
+    "images": [
+      "images/clothing_detail/0074_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装连衣裙领口的细节图",
+    "bbox": [
+      0.545,
+      0.155,
+      0.672,
+      0.203
+    ],
+    "id": "0075",
+    "images": [
+      "images/clothing_detail/0075_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装内搭打底裤面料的细节图",
+    "bbox": [
+      0.24,
+      0.337,
+      0.417,
+      0.831
+    ],
+    "id": "0076",
+    "images": [
+      "images/clothing_detail/0076_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子休闲裤裤腰的细节图",
+    "bbox": [
+      0.172,
+      0.036,
+      0.363,
+      0.085
+    ],
+    "id": "0077",
+    "images": [
+      "images/clothing_detail/0077_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装T恤平铺设计的细节图",
+    "bbox": [
+      0.114,
+      0.418,
+      0.376,
+      0.725
+    ],
+    "id": "0078",
+    "images": [
+      "images/clothing_detail/0078_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子牛仔裤面料的细节图",
+    "bbox": [
+      0.411,
+      0.569,
+      0.545,
+      0.715
+    ],
+    "id": "0079",
+    "images": [
+      "images/clothing_detail/0079_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子休闲裤面料的细节图",
+    "bbox": [
+      0.626,
+      0.517,
+      0.747,
+      0.922
+    ],
+    "id": "0080",
+    "images": [
+      "images/clothing_detail/0080_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装毛呢外套领口的细节图",
+    "bbox": [
+      0.303,
+      0.217,
+      0.622,
+      0.563
+    ],
+    "id": "0081",
+    "images": [
+      "images/clothing_detail/0081_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装短外套领口的细节图",
+    "bbox": [
+      0.471,
+      0.18,
+      0.552,
+      0.246
+    ],
+    "id": "0082",
+    "images": [
+      "images/clothing_detail/0082_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子休闲裤裤腰的细节图",
+    "bbox": [
+      0.355,
+      0.058,
+      0.545,
+      0.087
+    ],
+    "id": "0083",
+    "images": [
+      "images/clothing_detail/0083_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装半身裙平铺设计的细节图",
+    "bbox": [
+      0.057,
+      0.191,
+      0.971,
+      0.918
+    ],
+    "id": "0084",
+    "images": [
+      "images/clothing_detail/0084_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装T恤肩线的细节图",
+    "bbox": [
+      0.638,
+      0.499,
+      0.755,
+      0.592
+    ],
+    "id": "0085",
+    "images": [
+      "images/clothing_detail/0085_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装羽绒服平铺设计的细节图",
+    "bbox": [
+      0.102,
+      0.036,
+      0.788,
+      0.959
+    ],
+    "id": "0086",
+    "images": [
+      "images/clothing_detail/0086_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装皮草袖口的细节图",
+    "bbox": [
+      0.107,
+      0.491,
+      0.203,
+      0.65
+    ],
+    "id": "0087",
+    "images": [
+      "images/clothing_detail/0087_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装短外套平铺设计的细节图",
+    "bbox": [
+      0.203,
+      0.121,
+      0.353,
+      0.313
+    ],
+    "id": "0088",
+    "images": [
+      "images/clothing_detail/0088_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装短外套面料的细节图",
+    "bbox": [
+      0.608,
+      0.545,
+      0.81,
+      0.977
+    ],
+    "id": "0089",
+    "images": [
+      "images/clothing_detail/0089_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装衬衫门襟的细节图",
+    "bbox": [
+      0.381,
+      0.188,
+      0.467,
+      0.874
+    ],
+    "id": "0090",
+    "images": [
+      "images/clothing_detail/0090_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装内搭打底衫面料的细节图",
+    "bbox": [
+      0.501,
+      0.355,
+      0.608,
+      0.401
+    ],
+    "id": "0091",
+    "images": [
+      "images/clothing_detail/0091_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装羽绒服面料的细节图",
+    "bbox": [
+      0.563,
+      0.329,
+      0.655,
+      0.401
+    ],
+    "id": "0092",
+    "images": [
+      "images/clothing_detail/0092_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装羽绒服面料的细节图",
+    "bbox": [
+      0.715,
+      0.39,
+      0.831,
+      0.453
+    ],
+    "id": "0093",
+    "images": [
+      "images/clothing_detail/0093_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装皮草毛质的细节图",
+    "bbox": [
+      0.442,
+      0.189,
+      0.609,
+      0.36
+    ],
+    "id": "0094",
+    "images": [
+      "images/clothing_detail/0094_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装半身裙缝线的细节图",
+    "bbox": [
+      0.626,
+      0.363,
+      0.712,
+      0.68
+    ],
+    "id": "0095",
+    "images": [
+      "images/clothing_detail/0095_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装马夹/坎肩面料的细节图",
+    "bbox": [
+      0.203,
+      0.39,
+      0.417,
+      0.715
+    ],
+    "id": "0096",
+    "images": [
+      "images/clothing_detail/0096_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装毛针织衫套头针织衫领口的细节图",
+    "bbox": [
+      0.233,
+      0.075,
+      0.622,
+      0.429
+    ],
+    "id": "0097",
+    "images": [
+      "images/clothing_detail/0097_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子休闲裤裤脚的细节图",
+    "bbox": [
+      0.23,
+      0.705,
+      0.372,
+      0.893
+    ],
+    "id": "0098",
+    "images": [
+      "images/clothing_detail/0098_0.jpg"
+    ]
+  },
+  {
+    "prompt": "展示女装裤子休闲裤面料的细节图",
+    "bbox": [
+      0.264,
+      0.545,
+      0.381,
+      0.882
+    ],
+    "id": "0099",
+    "images": [
+      "images/clothing_detail/0099_0.jpg"
+    ]
+  }
+]

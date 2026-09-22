@@ -1,0 +1,802 @@
+[
+  {
+    "prompt": "将模特身上的深灰色外套替换为图2中的白色经典领长袖衬衫，衬衫带前排纽扣，肩部到袖侧有白色蕾丝网纱拼接，保持模特姿势不变。",
+    "id": "0000",
+    "images": [
+      "images/virtual_tryon/0000_0.jpg",
+      "images/virtual_tryon/0000_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的白色长袖卫衣替换为图2中的深绿色短袖T恤，左胸有白色山峰logo和\"JEANSWESTOUTDOOR\"字样，保持模特姿势不变。",
+    "id": "0001",
+    "images": [
+      "images/virtual_tryon/0001_0.jpg",
+      "images/virtual_tryon/0001_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的藏蓝色裤子替换为图2中的黑色束脚运动裤，右腿外侧有白色竖排\"RUNYOUTH\"字母，配松紧抽绳腰头、侧袋和罗纹脚口，保持模特姿势不变。",
+    "id": "0002",
+    "images": [
+      "images/virtual_tryon/0002_0.jpg",
+      "images/virtual_tryon/0002_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的粉色无袖碎花连衣裙替换为图2中的灰绿色碎花短袖连衣裙，配荷叶领、荷叶短袖、前排纽扣门襟和A字廓形，保持模特姿势不变。",
+    "id": "0003",
+    "images": [
+      "images/virtual_tryon/0003_0.jpg",
+      "images/virtual_tryon/0003_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的碎花长裙替换为图2中的黑白竖条纹连体裤，配戗驳领、短袖、双排扣、同色腰带和阔腿裤脚，保持模特姿势不变。",
+    "id": "0004",
+    "images": [
+      "images/virtual_tryon/0004_0.jpg",
+      "images/virtual_tryon/0004_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的白色卫衣替换为图2中的浅粉色西装外套，配戗驳领、装饰绳扣、侧翻盖口袋和白色毛绒袖口，保持模特姿势不变。",
+    "id": "0005",
+    "images": [
+      "images/virtual_tryon/0005_0.jpg",
+      "images/virtual_tryon/0005_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的米色拉链连帽衫替换为图2中的米棕拼色羽绒服，配连帽、黑色纽扣、前拉链口袋、翻盖口袋、黑色袖口镶边和左袖贴布，保持模特姿势不变。",
+    "id": "0006",
+    "images": [
+      "images/virtual_tryon/0006_0.jpg",
+      "images/virtual_tryon/0006_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的浅色印花短袖衬衫替换为图2中的深藏蓝几何图案立领拉链夹克，保持模特姿势不变。",
+    "id": "0007",
+    "images": [
+      "images/virtual_tryon/0007_0.jpg",
+      "images/virtual_tryon/0007_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的米色长袖衬衫替换为图2中的蓝白条纹短袖针织上衣，配米色V领和前系结长飘带、罗纹短袖口，保持模特姿势不变。",
+    "id": "0008",
+    "images": [
+      "images/virtual_tryon/0008_0.jpg",
+      "images/virtual_tryon/0008_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的黑色拉链外套替换为图2中的白色中式长袖衫，配立领、白色盘扣和右侧黑色水墨竹叶图案，保持模特姿势不变。",
+    "id": "0009",
+    "images": [
+      "images/virtual_tryon/0009_0.jpg",
+      "images/virtual_tryon/0009_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的米色七分运动裤替换为图2中的藏蓝色长款束脚运动裤，修身版型、松紧腰、束脚口，左大腿有白色几何小logo，保持模特姿势不变。",
+    "id": "0010",
+    "images": [
+      "images/virtual_tryon/0010_0.jpg",
+      "images/virtual_tryon/0010_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的橄榄绿长袖上衣替换为图2中的米色浅棕羊羔毛夹克，翻领竖起如围巾般绕颈，保持模特姿势不变。",
+    "id": "0011",
+    "images": [
+      "images/virtual_tryon/0011_0.jpg",
+      "images/virtual_tryon/0011_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的橄榄绿T恤和黑色渐变抽绳裤替换为图2中的粉色碎花旗袍，配立领、短袖、盘扣和修身廓形，保持模特姿势不变。",
+    "id": "0012",
+    "images": [
+      "images/virtual_tryon/0012_0.jpg",
+      "images/virtual_tryon/0012_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的碎花阔腿裤替换为图2中的橄榄绿工装裤，配松紧抽绳腰头、两个大侧袋和脚口抽绳，保持模特姿势不变。",
+    "id": "0013",
+    "images": [
+      "images/virtual_tryon/0013_0.jpg",
+      "images/virtual_tryon/0013_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的深灰色运动裤替换为图2中的黑色牛仔裤，配带黑字的白色抽绳、明显侧缝车线和右大腿棕色皮标，保持模特姿势不变。",
+    "id": "0014",
+    "images": [
+      "images/virtual_tryon/0014_0.jpg",
+      "images/virtual_tryon/0014_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的绿色T恤替换为图2中的黑白条纹仿毛短外套，保持模特姿势不变。",
+    "id": "0015",
+    "images": [
+      "images/virtual_tryon/0015_0.jpg",
+      "images/virtual_tryon/0015_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的白色休闲裤替换为图2中的深蓝水洗牛仔裤，直筒修身版型、经典五袋设计带明线、金属纽扣和拉链门襟，带自然做旧和猫须效果，保持模特姿势不变。",
+    "id": "0016",
+    "images": [
+      "images/virtual_tryon/0016_0.jpg",
+      "images/virtual_tryon/0016_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的白色卫衣和浅蓝破洞牛仔外套替换为图2中的深灰色圆领短袖T恤，左下侧有棕色皮标、右下侧有黑色小标，保持模特姿势不变。",
+    "id": "0017",
+    "images": [
+      "images/virtual_tryon/0017_0.jpg",
+      "images/virtual_tryon/0017_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的黑色改良旗袍连衣裙，配立领、短袖、前排装饰盘扣和侧开高衩不对称荷叶下摆，保持模特姿势不变。",
+    "id": "0018",
+    "images": [
+      "images/virtual_tryon/0018_0.jpg",
+      "images/virtual_tryon/0018_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的红色长袖卫衣替换为图2中的白色短袖衬衫，左胸有黑色竹叶图案，保持模特姿势不变。",
+    "id": "0019",
+    "images": [
+      "images/virtual_tryon/0019_0.jpg",
+      "images/virtual_tryon/0019_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的深蓝修身牛仔裤替换为图2中的浅灰色宽松休闲裤，配松紧抽绳腰头、阔腿和收边裤脚，保持模特姿势不变。",
+    "id": "0020",
+    "images": [
+      "images/virtual_tryon/0020_0.jpg",
+      "images/virtual_tryon/0020_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的灰蓝色V领纽扣长袖衬衫，搭配轻薄有质感面料的高腰多层荷叶边迷你裙，保持模特姿势不变。",
+    "id": "0021",
+    "images": [
+      "images/virtual_tryon/0021_0.jpg",
+      "images/virtual_tryon/0021_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的灰色针织毛衣替换为图2中的藏蓝色连帽长大衣，配竖向纹理、前排纽扣、两个大贴袋和可调节连帽，内搭白色印花T恤，保持模特姿势不变。",
+    "id": "0022",
+    "images": [
+      "images/virtual_tryon/0022_0.jpg",
+      "images/virtual_tryon/0022_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的黑色皮夹克替换为图2中的亮蓝色长款羽绒服，配连帽、按扣前口袋和松紧袖口，保持模特姿势不变。",
+    "id": "0023",
+    "images": [
+      "images/virtual_tryon/0023_0.jpg",
+      "images/virtual_tryon/0023_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的白色连帽长毛绒外套替换为图2中的黑色短款连帽绗缝夹克，配前拉链、两个斜插侧袋、下摆抽绳和左袖带金属环拉链小口袋，保持模特姿势不变。",
+    "id": "0024",
+    "images": [
+      "images/virtual_tryon/0024_0.jpg",
+      "images/virtual_tryon/0024_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的黑色V领针织开衫，左袖及前片部分为黑白灰菱格针织、右前片及右袖为黑色麻花纹，前排三粒白扣，下摆和袖口为白色罗纹，保持模特姿势不变。",
+    "id": "0025",
+    "images": [
+      "images/virtual_tryon/0025_0.jpg",
+      "images/virtual_tryon/0025_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的白色长袖卫衣替换为图2中的白色迷彩短袖T恤，配黑色插肩袖和黑色内领镶边，保持模特姿势不变。",
+    "id": "0026",
+    "images": [
+      "images/virtual_tryon/0026_0.jpg",
+      "images/virtual_tryon/0026_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的薄荷绿扎染T恤替换为图2中的黑色短袖上衣，圆领带黑绳和珍珠装饰、黑色网纱泡泡袖点缀闪亮亮片，下装换为黑色蕾丝花卉刺绣半裙，保持模特姿势不变。",
+    "id": "0027",
+    "images": [
+      "images/virtual_tryon/0027_0.jpg",
+      "images/virtual_tryon/0027_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的粉色工装裤替换为图2中的黑色运动裤，配白色侧条、白色抽绳腰头和右腿带斜线的白色\"XIONOX\"logo，宽松锥形束脚版型，保持模特姿势不变。",
+    "id": "0028",
+    "images": [
+      "images/virtual_tryon/0028_0.jpg",
+      "images/virtual_tryon/0028_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的浅灰色长款羽绒服，配横向绗缝、戴起的抽绳连帽（不遮脸）、胸前小logo和左袖圆形黑色贴布，保持模特姿势不变。",
+    "id": "0029",
+    "images": [
+      "images/virtual_tryon/0029_0.jpg",
+      "images/virtual_tryon/0029_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的米色长袖卫衣替换为图2中的黑色短袖Polo衫，领子带橙金镶边、橙色内领、前排三粒金扣、左胸小金色logo，下装换为黑色裤子，保持模特姿势不变。",
+    "id": "0030",
+    "images": [
+      "images/virtual_tryon/0030_0.jpg",
+      "images/virtual_tryon/0030_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的绿色外套替换为图2中的撞色卫衣，上身黑色配橙色肩部拼块和胸前橙色\"CHTC\"大字母，下身及袖子为青绿色，保持模特姿势不变。",
+    "id": "0031",
+    "images": [
+      "images/virtual_tryon/0031_0.jpg",
+      "images/virtual_tryon/0031_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的浅绿色短袖T恤替换为图2中的白色长袖衬衫，配立领、前排纽扣、左胸竖向荷叶边装饰和袖口绿色花卉刺绣，保持模特姿势不变。",
+    "id": "0032",
+    "images": [
+      "images/virtual_tryon/0032_0.jpg",
+      "images/virtual_tryon/0032_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的黑色内搭替换为图2中的米白色圆领针织毛衣，胸前有黑色Keith Haring风格方头卡通人物图案，长袖配罗纹袖口和下摆，宽松版型，保持模特姿势不变。",
+    "id": "0033",
+    "images": [
+      "images/virtual_tryon/0033_0.jpg",
+      "images/virtual_tryon/0033_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的蓝色水彩图案吊带长裙，领口有精致金色蕾丝珍珠镶边、两侧浅蓝透视开衩，外搭米白色蕾丝针织开衫，佩戴金色蝴蝶吊坠项链，保持模特姿势不变。",
+    "id": "0034",
+    "images": [
+      "images/virtual_tryon/0034_0.jpg",
+      "images/virtual_tryon/0034_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的白色西装和藏蓝修身裤替换为图2中的黑色V领短袖前系结上衣和黑色高腰阔腿裤，保持模特姿势不变。",
+    "id": "0035",
+    "images": [
+      "images/virtual_tryon/0035_0.jpg",
+      "images/virtual_tryon/0035_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的条纹衬衫替换为图2中的橄榄绿羊羔毛皮夹克，配米色羊羔毛领口和袖口、棕色皮带、前拉链和肩部铆钉，内搭黑色高领毛衣，保持模特姿势不变。",
+    "id": "0036",
+    "images": [
+      "images/virtual_tryon/0036_0.jpg",
+      "images/virtual_tryon/0036_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的上衣替换为图2中的黑色开衫毛衣，前片散布白色小刺绣图案（如十字、蝴蝶结），配圆领、前排黑扣和罗纹袖口下摆，保持模特姿势不变。",
+    "id": "0037",
+    "images": [
+      "images/virtual_tryon/0037_0.jpg",
+      "images/virtual_tryon/0037_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的下装替换为图2中的米色阔腿裤，配松紧抽绳腰头带金属绳扣、直筒宽松裤腿和收边裤脚，保持模特姿势不变。",
+    "id": "0038",
+    "images": [
+      "images/virtual_tryon/0038_0.jpg",
+      "images/virtual_tryon/0038_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的深蓝立领夹克替换为图2中的黑色连帽羽绒服，配绗缝拼块、侧抽绳、松紧袖口和左袖拉链贴袋，连帽戴起遮住大部分头部只露下半脸，保持模特姿势不变。",
+    "id": "0039",
+    "images": [
+      "images/virtual_tryon/0039_0.jpg",
+      "images/virtual_tryon/0039_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的米色直筒裤替换为图2中的拼接中长半裙，配米棕竖条纹、浅蓝碎白花拼块和棕色碎花拼块、棕色包边，上衣换为透视酒红色网纱上衣，腰间加宽棕色皮带配银扣，保持模特姿势不变。",
+    "id": "0040",
+    "images": [
+      "images/virtual_tryon/0040_0.jpg",
+      "images/virtual_tryon/0040_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的青色无袖V领上衣替换为图2中的粉色长袖纽扣衬衫，袖子卷至手肘、前扣系上，保持模特姿势不变。",
+    "id": "0041",
+    "images": [
+      "images/virtual_tryon/0041_0.jpg",
+      "images/virtual_tryon/0041_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的橄榄绿针织毛衣替换为图2中的酒红色粗花呢西装外套，翻领、袖口、口袋和下摆有黑色镶边，内搭换为黑色上衣，保持模特姿势不变。",
+    "id": "0042",
+    "images": [
+      "images/virtual_tryon/0042_0.jpg",
+      "images/virtual_tryon/0042_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的白色长袖T恤替换为图2中的米色短袖T恤，满印浅灰色热带植物（棕榈、仙人掌、菠萝、松树）和大象图案，圆领宽松版型，保持模特姿势不变。",
+    "id": "0043",
+    "images": [
+      "images/virtual_tryon/0043_0.jpg",
+      "images/virtual_tryon/0043_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的藏蓝色短袖Polo衫替换为图2中的黑色长袖Polo衫，配米色领子和前排三粒白扣，保持模特姿势不变。",
+    "id": "0044",
+    "images": [
+      "images/virtual_tryon/0044_0.jpg",
+      "images/virtual_tryon/0044_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的白衬衫和藏蓝西装替换为图2中的黄色碎花无袖上衣，保持模特姿势不变。",
+    "id": "0045",
+    "images": [
+      "images/virtual_tryon/0045_0.jpg",
+      "images/virtual_tryon/0045_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的藏蓝色宽松圆领卫衣，前胸有白色轮廓碎心图案，内搭白色T恤，下装配黑色高腰A字迷你裙，保持模特姿势不变。",
+    "id": "0046",
+    "images": [
+      "images/virtual_tryon/0046_0.jpg",
+      "images/virtual_tryon/0046_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的上衣替换为图2中的白色蕾丝边抹胸上衣，外搭一件闭合的米白色皮机车夹克，配尖领、斜拉链、按扣肩章和按扣前口袋，袖子卷至手肘，保持模特姿势不变。",
+    "id": "0047",
+    "images": [
+      "images/virtual_tryon/0047_0.jpg",
+      "images/virtual_tryon/0047_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的浅蓝蕾丝边上衣替换为图2中的灰色罗纹针织拉链开衫，微短款、拉链半开、左胸有小logo，保持模特姿势不变。",
+    "id": "0048",
+    "images": [
+      "images/virtual_tryon/0048_0.jpg",
+      "images/virtual_tryon/0048_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的白色短袖上衣替换为图2中的冬季主题羽绒服，印有雪山、小屋、松树和戴紫色蝴蝶结的白熊图案，粉蓝白棕配色，长款连帽（帽内衬粉色）、前排按扣和翻盖口袋，保持模特姿势不变。",
+    "id": "0049",
+    "images": [
+      "images/virtual_tryon/0049_0.jpg",
+      "images/virtual_tryon/0049_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的裤子替换为图2中的黑色运动裤，两侧各有两道白色竖条纹，配松紧腰头，保持模特姿势不变。",
+    "id": "0050",
+    "images": [
+      "images/virtual_tryon/0050_0.jpg",
+      "images/virtual_tryon/0050_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的上衣替换为图2中的黑色修身短袖T恤，圆领、面料顺滑，保持模特姿势不变。",
+    "id": "0051",
+    "images": [
+      "images/virtual_tryon/0051_0.jpg",
+      "images/virtual_tryon/0051_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的外套替换为图2中的米色双排扣风衣，配酒红色领子、酒红色袖口、正面六颗酒红色纽扣及两个斜插袋，保持模特姿势不变。",
+    "id": "0052",
+    "images": [
+      "images/virtual_tryon/0052_0.jpg",
+      "images/virtual_tryon/0052_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的上衣替换为图2中的浅灰色V领长袖针织衫，宽松版型、深V领口清晰可见，保持模特姿势不变。",
+    "id": "0053",
+    "images": [
+      "images/virtual_tryon/0053_0.jpg",
+      "images/virtual_tryon/0053_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的短裤替换为图2中的深蓝色牛仔背带裤，肩带上肩，前后口袋及金属纽扣细节清晰，保持模特姿势不变。",
+    "id": "0054",
+    "images": [
+      "images/virtual_tryon/0054_0.jpg",
+      "images/virtual_tryon/0054_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的下装替换为图2中的浅蓝水洗牛仔裤，配松紧抽绳腰头、宽松哈伦版型及收口裤脚，保持模特姿势不变。",
+    "id": "0055",
+    "images": [
+      "images/virtual_tryon/0055_0.jpg",
+      "images/virtual_tryon/0055_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的短裤替换为图2中的浅蓝色高腰阔腿牛仔裤，保持模特姿势不变。",
+    "id": "0056",
+    "images": [
+      "images/virtual_tryon/0056_0.jpg",
+      "images/virtual_tryon/0056_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的米白色花卉提花旗袍裙，立领、短袖、侧襟盘扣、修身廓形，配层叠荷叶不对称鱼尾裙摆，保持模特姿势不变。",
+    "id": "0057",
+    "images": [
+      "images/virtual_tryon/0057_0.jpg",
+      "images/virtual_tryon/0057_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的裤子替换为图2中的蓝色牛仔迷你裙，配银扣腰带及带金属气眼的侧边长系带，高腰穿着、系带沿右腿垂下，保持模特姿势不变。",
+    "id": "0058",
+    "images": [
+      "images/virtual_tryon/0058_0.jpg",
+      "images/virtual_tryon/0058_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的上衣替换为图2中的碎花短袖连衣裙，浅粉底色配绿白花卉图案、圆领、前排白色纽扣，保持模特姿势不变。",
+    "id": "0059",
+    "images": [
+      "images/virtual_tryon/0059_0.jpg",
+      "images/virtual_tryon/0059_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的T恤替换为图2中的灰色罗纹针织拉链开衫，敞开穿着露出内搭豹纹上衣，配领子、正面金属拉链及微闪面料，保持模特姿势不变。",
+    "id": "0060",
+    "images": [
+      "images/virtual_tryon/0060_0.jpg",
+      "images/virtual_tryon/0060_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的卫衣替换为图2中的白色长袖衬衫，标准领、前排纽扣、带袖口的长袖，纯白顺滑面料，保持模特姿势不变。",
+    "id": "0061",
+    "images": [
+      "images/virtual_tryon/0061_0.jpg",
+      "images/virtual_tryon/0061_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的灰色风衣，立领、双排扣、腰间系带打结成蝴蝶结，配黑白格纹袖口，保持模特姿势不变。",
+    "id": "0062",
+    "images": [
+      "images/virtual_tryon/0062_0.jpg",
+      "images/virtual_tryon/0062_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的灰色连帽夹克，戴上帽子并收紧抽绳，衣身完整覆盖躯干和手臂，保持模特姿势不变。",
+    "id": "0063",
+    "images": [
+      "images/virtual_tryon/0063_0.jpg",
+      "images/virtual_tryon/0063_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的上衣替换为图2中的黑色灯芯绒衬衫，敞开不系扣穿着、领子自然展开，两个前胸口袋，右口袋带小金标，保持模特姿势不变。",
+    "id": "0064",
+    "images": [
+      "images/virtual_tryon/0064_0.jpg",
+      "images/virtual_tryon/0064_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的开衫替换为图2中的黑色毛茸茸短外套，双排扣、柔软质地、略宽松版型，内搭改为黑色高领针织衫，保持模特姿势不变。",
+    "id": "0065",
+    "images": [
+      "images/virtual_tryon/0065_0.jpg",
+      "images/virtual_tryon/0065_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的裤子替换为图2中的黑色宽松运动裤，配松紧腰头和白色抽绳、直筒版型，左大腿有白字黑色小标签，保持模特姿势不变。",
+    "id": "0066",
+    "images": [
+      "images/virtual_tryon/0066_0.jpg",
+      "images/virtual_tryon/0066_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的裙子替换为图2中的米白色高腰阔腿裤，配带金属圆环的抽绳腰头及柔软垂坠面料，保持模特姿势不变。",
+    "id": "0067",
+    "images": [
+      "images/virtual_tryon/0067_0.jpg",
+      "images/virtual_tryon/0067_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的连帽衫替换为图2中的米色长外套，配蓬松浅灰色毛领、正面按扣及带抽绳的侧口袋，保持模特姿势不变。",
+    "id": "0068",
+    "images": [
+      "images/virtual_tryon/0068_0.jpg",
+      "images/virtual_tryon/0068_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的米色长袖polo衫，敞开穿着、领口两颗纽扣解开，露出内搭棕色高领衫，宽松版型配罗纹袖口和下摆，保持模特姿势不变。",
+    "id": "0069",
+    "images": [
+      "images/virtual_tryon/0069_0.jpg",
+      "images/virtual_tryon/0069_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的夹克替换为图2中的浅灰色羽绒服，前拉链半开露出浅灰色圆领内搭，配高领、绗缝、松紧袖口及左胸黑色小logo，保持模特姿势不变。",
+    "id": "0070",
+    "images": [
+      "images/virtual_tryon/0070_0.jpg",
+      "images/virtual_tryon/0070_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的墨绿色V领短袖连衣裙，腰部收褶并以两颗银扣固定，配不对称裙摆，保持模特姿势不变。",
+    "id": "0071",
+    "images": [
+      "images/virtual_tryon/0071_0.jpg",
+      "images/virtual_tryon/0071_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的夹克替换为图2中的灰蓝色格纹长袖衬衫，尖领、正面白纽扣、左胸口袋带红色小标签、左下摆有白色方标，内搭白色圆领T恤，保持模特姿势不变。",
+    "id": "0072",
+    "images": [
+      "images/virtual_tryon/0072_0.jpg",
+      "images/virtual_tryon/0072_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的上衣替换为图2中的黑色无袖上衣，修身、圆领、下摆略微展开，保持模特姿势不变。",
+    "id": "0073",
+    "images": [
+      "images/virtual_tryon/0073_0.jpg",
+      "images/virtual_tryon/0073_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的上衣替换为图2中的白色长袖罗纹针织衫，肩部和袖口带透视网纱拼接，配扇贝形荷叶下摆，保持模特姿势不变。",
+    "id": "0074",
+    "images": [
+      "images/virtual_tryon/0074_0.jpg",
+      "images/virtual_tryon/0074_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的T恤替换为图2中的米色高领针织衫，面料布满深色小斑点，配罗纹袖口、下摆和领口及插肩袖，保持模特姿势不变。",
+    "id": "0075",
+    "images": [
+      "images/virtual_tryon/0075_0.jpg",
+      "images/virtual_tryon/0075_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的裤子替换为图2中的棕色百褶迷你裙，配银扣铆钉黑色腰带及两侧带金属扣的翻盖口袋，保持模特姿势不变。",
+    "id": "0076",
+    "images": [
+      "images/virtual_tryon/0076_0.jpg",
+      "images/virtual_tryon/0076_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的卫衣替换为图2中的黑色针织衫，胸前有白色3D立体刺绣\"Lee\"logo，配罗纹袖口和下摆、宽松版型，下摆露出白色内搭，保持模特姿势不变。",
+    "id": "0077",
+    "images": [
+      "images/virtual_tryon/0077_0.jpg",
+      "images/virtual_tryon/0077_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的polo衫替换为图2中的长袖棒球衫，米色衣身配酒红色袖子和领子，保持模特姿势不变。",
+    "id": "0078",
+    "images": [
+      "images/virtual_tryon/0078_0.jpg",
+      "images/virtual_tryon/0078_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的淡黄色短袖连衣裙，方领、胸前蝴蝶结、正面纽扣、收腰，配两层荷叶裙摆（上层小碎花、下层纯淡黄），保持模特姿势不变。",
+    "id": "0079",
+    "images": [
+      "images/virtual_tryon/0079_0.jpg",
+      "images/virtual_tryon/0079_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的卫衣替换为图2中的深蓝色牛仔衬衫，经典领、正面纽扣、左胸口袋，左胸带白色刺绣文字\"Hesitate also should medium slowly\"，宽松版型配卷起的袖口，保持模特姿势不变。",
+    "id": "0080",
+    "images": [
+      "images/virtual_tryon/0080_0.jpg",
+      "images/virtual_tryon/0080_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的下装替换为图2中的透视碎花长裙，半透明面料、碎花印花、百褶A字廓形，自然垂坠，保持模特姿势不变。",
+    "id": "0081",
+    "images": [
+      "images/virtual_tryon/0081_0.jpg",
+      "images/virtual_tryon/0081_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的T恤替换为图2中的深橄榄绿工装夹克，前拉链半开露出内搭，配两个胸袋（右胸带刺绣贴布）、两侧斜插袋及罗纹袖口下摆，保持模特姿势不变。",
+    "id": "0082",
+    "images": [
+      "images/virtual_tryon/0082_0.jpg",
+      "images/virtual_tryon/0082_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的运动裤替换为图2中的蓝色水洗牛仔裤，修身直筒版型，自然褶皱和磨白，后袋清晰可见，保持模特姿势不变。",
+    "id": "0083",
+    "images": [
+      "images/virtual_tryon/0083_0.jpg",
+      "images/virtual_tryon/0083_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的运动裤替换为图2中的棕色高腰百褶迷你裙，保持模特姿势不变。",
+    "id": "0084",
+    "images": [
+      "images/virtual_tryon/0084_0.jpg",
+      "images/virtual_tryon/0084_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的黑色无袖短款背心和浅蓝色高腰阔腿牛仔裤，保持模特姿势不变。",
+    "id": "0085",
+    "images": [
+      "images/virtual_tryon/0085_0.jpg",
+      "images/virtual_tryon/0085_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的米色与棕色拼色连帽羽绒服，帽子带棕色内衬和抽绳、正面按扣、两侧竖拉链口袋，胸前印字\"ENJOY THE LIFE BE MORE COMFORTABLE\"，左袖有方形logo，保持模特姿势不变。",
+    "id": "0086",
+    "images": [
+      "images/virtual_tryon/0086_0.jpg",
+      "images/virtual_tryon/0086_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的阔腿裤替换为图2中的黑色A字迷你裙，带白色小碎花图案，保持模特姿势不变。",
+    "id": "0087",
+    "images": [
+      "images/virtual_tryon/0087_0.jpg",
+      "images/virtual_tryon/0087_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的橄榄绿连帽套装（连帽衫配同色裤子），宽松版型、正面袋鼠口袋、罗纹袖口和下摆，帽内可见红色GUCCI标签，保持模特姿势不变。",
+    "id": "0088",
+    "images": [
+      "images/virtual_tryon/0088_0.jpg",
+      "images/virtual_tryon/0088_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的工装裤替换为图2中的米白色高腰阔腿短裤，带明显竖纹肌理、卷边裤脚及圆形金属扣的棕色皮带，保持模特姿势不变。",
+    "id": "0089",
+    "images": [
+      "images/virtual_tryon/0089_0.jpg",
+      "images/virtual_tryon/0089_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的红色中式上衣，立领、盘扣、精致凤凰花卉云纹刺绣，袖肩配浅蓝拼色，领口带珠串流苏，并搭配同款凤凰花卉刺绣红色长裙，保持模特姿势不变。",
+    "id": "0090",
+    "images": [
+      "images/virtual_tryon/0090_0.jpg",
+      "images/virtual_tryon/0090_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的连衣裙替换为图2中的浅绿色中式交领连衣裙，V领、短袖、配同色腰带，肩胸处有粉花蓝蝶的精致刺绣，保持模特姿势不变。",
+    "id": "0091",
+    "images": [
+      "images/virtual_tryon/0091_0.jpg",
+      "images/virtual_tryon/0091_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的牛仔短裤替换为图2中的亮黄色高腰阔腿裤，配前褶、纽扣门襟及裤脚装饰缝线，保持模特姿势不变。",
+    "id": "0092",
+    "images": [
+      "images/virtual_tryon/0092_0.jpg",
+      "images/virtual_tryon/0092_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的polo衫替换为图2中的浅蓝色短袖polo衫，领子和袖口带黑色镶边，保持模特姿势不变。",
+    "id": "0093",
+    "images": [
+      "images/virtual_tryon/0093_0.jpg",
+      "images/virtual_tryon/0093_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的上衣和裙子替换为图2中的灰绿色牛仔短外套（配棕色仿皮领、袖口和两个带扣前袋及弧形下摆）及同材质同色的棕色仿皮A字迷你裙，保持模特姿势不变。",
+    "id": "0094",
+    "images": [
+      "images/virtual_tryon/0094_0.jpg",
+      "images/virtual_tryon/0094_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的T恤替换为图2中的黑色T恤（左胸有白色矩形图案配黑色细线细节），并在外面加一件米色立领拉链夹克，领口露出灰白细格衬衫，保持模特姿势不变。",
+    "id": "0095",
+    "images": [
+      "images/virtual_tryon/0095_0.jpg",
+      "images/virtual_tryon/0095_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的短裤替换为图2中的黑色阔腿运动裤，保持模特姿势不变。",
+    "id": "0096",
+    "images": [
+      "images/virtual_tryon/0096_0.jpg",
+      "images/virtual_tryon/0096_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的米色花卉刺绣长连衣裙，方领、短袖、配带装饰链条的细腰带及不对称多层荷叶下摆，保持模特姿势不变。",
+    "id": "0097",
+    "images": [
+      "images/virtual_tryon/0097_0.jpg",
+      "images/virtual_tryon/0097_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的短裤替换为图2中的灰色长裤，配黑色抽绳松紧腰头及直筒略收脚版型，保持模特姿势不变。",
+    "id": "0098",
+    "images": [
+      "images/virtual_tryon/0098_0.jpg",
+      "images/virtual_tryon/0098_1.jpg"
+    ]
+  },
+  {
+    "prompt": "将模特身上的服装替换为图2中的牛仔背带裤，内搭白色无袖上衣，保持模特姿势不变。",
+    "id": "0099",
+    "images": [
+      "images/virtual_tryon/0099_0.jpg",
+      "images/virtual_tryon/0099_1.jpg"
+    ]
+  }
+]

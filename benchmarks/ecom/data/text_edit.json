@@ -1,0 +1,1647 @@
+[
+  {
+    "prompt": "在图片左侧中部偏上位置，添加深棕色粗体无衬线字体“第2天”，背景为浅米色渐变，文字与背景对比度高，清晰易读；在其正下方添加同样风格的深棕色粗体无衬线字体“喝热水”，背景同为浅米色渐变；在图片左侧中部偏下、位于“316L”标签上方位置，添加白色粗体无衬线字体“不锈钢内胆”，背景为橙色圆角矩形块；在图片左下角、商品底部左侧位置，添加深棕色粗体无衬线字体“全钢健康开关”，背景为浅米色渐变。所有文字均水平排列，无倾斜，保持图片原有其他内容和背景不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "第2天",
+      "喝热水",
+      "不锈钢内胆",
+      "全钢健康开关"
+    ],
+    "id": "0000",
+    "images": [
+      "images/text_edit/0000_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片右上角添加文字“24H长久定妆”，文字为纯白色，置于深灰色圆角矩形背景框内，字体为粗体无衬线中文字体，笔画粗壮有力，字号较大，水平排列无倾斜，白色文字与深灰背景形成高对比，清晰醒目；在图片左侧中部、人物面部左侧添加文字“「控油+定妆」”，文字为纯白色，背景为深灰到黑色渐变，字体为粗体无衬线中文字体，笔画粗壮，字号较大，水平排列无倾斜，白色文字与深色背景对比强烈；在“「控油+定妆」”正下方添加文字“女神级定妆”，文字为纯白色，背景为深灰到黑色渐变，字体为粗体无衬线中文字体，笔画粗壮有力，字号最大，水平排列无倾斜，视觉冲击力强；保持图片原有其他内容和背景不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "24H长久定妆",
+      "「控油+定妆",
+      "女神级定妆"
+    ],
+    "id": "0001",
+    "images": [
+      "images/text_edit/0001_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片右上角添加“智能显温”文字，使用白色粗体无衬线字体（类似黑体），字号较大，笔画平直刚硬，水平排列，背景为浅米色渐变；在其正下方添加“内置茶仓”文字，样式与上方文字完全一致，保持视觉统一；在图片左上角顶部偏左区域添加“抑菌率”文字，使用白色粗体无衬线字体，字号适中，水平排列，背景为浅米色渐变；在图片右侧中部、位于“内置茶仓”下方添加“48小时保温保冷”文字，使用深棕色粗体无衬线字体，字号较大，水平排列，背景为白色圆角矩形框；在图片左下角添加“抗菌316”文字，使用白色粗体无衬线字体，字号较大，水平排列，背景为深棕色矩形框；在其正下方添加“免费刻字”文字，样式与上方文字一致，背景同样为深棕色矩形框；保持图片中所有原有产品、背景、光影和细节不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "智能显温",
+      "内置茶仓",
+      "抑菌率",
+      "48小时保温保冷",
+      "抗菌316",
+      "免费刻字"
+    ],
+    "id": "0002",
+    "images": [
+      "images/text_edit/0002_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片左侧区域，从上至下依次添加文字：“深层洁净”位于左上角，使用深绿色粗体无衬线字体，笔画圆润饱满，字号较大，背景为浅绿色渐变，无描边或阴影；其正下方添加“清爽舒润”，字体风格、颜色、字号与上方一致，背景同为浅绿色渐变，形成连贯宣传语块；再下方并列添加两行文字：“比香水更好闻”与“清新花果香”，均使用白色常规无衬线字体，字号适中，背景为深绿色矩形条块，形成对称卖点组合；在“清新花果香”下方添加“氨基酸*”，使用白色常规无衬线字体，字号适中，背景为深绿色菱形标签，突出成分信息；所有文字均水平排列、无倾斜，保持图片原有其他内容和背景不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "深层洁净",
+      "清爽舒润",
+      "比香水更好闻",
+      "清新花果香",
+      "氨基酸*"
+    ],
+    "id": "0003",
+    "images": [
+      "images/text_edit/0003_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片上部中央区域、品牌名下方、产品上方添加文字「一喷锁妆清爽不粘」，使用黑色粗体无衬线字体，字号较大，笔画粗壮有力，无描边或阴影，背景为浅紫色渐变，确保文字与背景高对比清晰易读；在图片中部偏右、圆形徽章内、产品右侧添加两行文字“先试用”和“再留下”，均使用白色细体无衬线字体，字号适中，笔画轻盈，无描边，背景为深紫色圆形，边缘环绕品牌名文字；在图片右侧、修容盘产品左侧边缘添加竖排文字“微光渐染高光修容盘”，使用白色细体无衬线字体，笔画纤细，字号较小，风格精致，无描边；在图片中部偏左、喷雾瓶身侧面添加文字“赠35ml”，使用白色细体无衬线字体，笔画纤细，字号适中，风格简洁，无描边，背景为产品瓶身紫色；保持图片原有其他内容和背景不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "「一喷锁妆清爽不粘",
+      "先试用",
+      "再留下",
+      "微光渐染高光修容盘",
+      "赠35ml"
+    ],
+    "id": "0004",
+    "images": [
+      "images/text_edit/0004_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片左侧中部区域，从上至下依次添加文字：“真空24H”（白色粗体无衬线字体，背景为暖橙色纯色矩形块），“长效保温”（亮黄色粗体无衬线字体，背景为暖橙色纯色矩形块，与上方背景连续），“食品级健康材质”（白色常规粗体无衬线字体，背景为暖橙色纯色矩形块，字号略小于上方文字）；在“食品级健康材质”下方添加一个白色圆角矩形框，框内包含两行文字：“孕妇婴儿”和“放心使用”，均为亮红色粗体无衬线字体，字号与上方文字一致，两行文字在同一框内垂直排列；保持图片中所有其他原有内容和背景不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "真空24H",
+      "长效保温",
+      "食品级健康材质",
+      "孕妇婴儿",
+      "放心使用"
+    ],
+    "id": "0005",
+    "images": [
+      "images/text_edit/0005_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片左侧中部行李箱左侧隔层上方添加文字“干湿分离”，在该文字下方添加“收纳更安心”；在图片右上部行李箱内部隔层上方添加文字“全封闭内里”，在该文字下方添加“隐私友好”；在图片右下角行李箱底部右侧添加文字“X型束衣带”，在该文字下方添加“衣物不凌乱”；所有文字均为黑色标准无衬线黑体，水平排列无倾斜，背景为纯白色，对比度高，清晰易读，无描边或阴影，保持图片原有其他内容不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "全封闭内里",
+      "干湿分离",
+      "隐私友好",
+      "收纳更安心",
+      "X型束衣带",
+      "衣物不凌乱"
+    ],
+    "id": "0006",
+    "images": [
+      "images/text_edit/0006_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片左侧从上至下依次添加文字：“每天喝热水”，使用纯白色粗体无衬线字体（类似黑体），字号较大，水平排列，背景为浅米色渐变，视觉突出；其正下方添加“316不锈钢材质”，使用深棕色常规无衬线字体，字号适中，水平排列，置于浅米色圆角矩形背景内；再下方添加“超大容量”和“2L”，其中“超大容量”使用深灰色粗体无衬线字体，字号较大，置于纯白色矩形背景内，“2L”为黑色粗体数字，与“超大容量”同框；最下方添加“婴孕可用”，使用深棕色常规无衬线字体，字号适中，水平排列，置于浅米色圆角矩形背景内；所有文字均无描边或阴影，保持图片原有其他内容和背景不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "喝热水",
+      "316不锈钢材质",
+      "超大容量",
+      "婴孕可用"
+    ],
+    "id": "0007",
+    "images": [
+      "images/text_edit/0007_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片中上部，于主标题左侧添加文字「法式香氛」，使用纯黑色粗体无衬线字体，笔画厚重有力，字号较大，水平排列，背景为浅紫色渐变；在主标题右侧添加文字「沐浴SPA」，使用纯黑色粗体无衬线字体，笔画厚重有力，字号较大，水平排列，背景为浅紫色渐变；在图片右侧中部的圆形图标内，从上至下依次添加文字“大师特调”、“72h留香”、“15大专利”、“欧洲进口”，均使用纯白色粗体无衬线字体，笔画厚重有力，字号适中，水平排列，背景为深紫色圆形，边缘带有细密刻度线纹理；保持图片原有其他内容和背景不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "「法式香氛",
+      "沐浴SPAJ",
+      "大师特调",
+      "15大专利",
+      "72h留香",
+      "欧洲进口"
+    ],
+    "id": "0008",
+    "images": [
+      "images/text_edit/0008_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片顶部中央偏左、品牌名PANTENE右侧添加“官方正品”文字，使用深黑色粗体无衬线字体，字号较大，笔画刚硬有力，背景为浅米黄色渐变，无描边或阴影；在图片右侧中部、产品瓶身右侧上方添加“乳液修护”文字，使用深黑色粗体无衬线字体，字号较大，笔画刚硬有力，背景为浅米黄色渐变，无描边或阴影；在“乳液修护”正下方添加“改善毛躁”文字，使用深黑色粗体无衬线字体，字号较大，笔画刚硬有力，背景为浅米黄色渐变，无描边或阴影；在图片右侧中部偏下、红色圆形标签内添加“3瓶装”文字，使用白色粗体无衬线字体，字号较大，笔画粗壮有力，背景为纯红色圆形，边缘有白色虚线描边；在图片底部左侧、红色横幅左侧添加“正品保障”文字，使用鲜红色粗体无衬线字体，字号较大，笔画粗壮有力，背景为纯红色矩形横幅；在“正品保障”右侧添加“修护干枯”文字，使用白色粗体无衬线字体，字号较大，笔画刚硬有力，背景为纯红色矩形横幅；在“修护干枯”右侧添加“秀发水润柔亮”文字，使用白色粗体无衬线字体，字号较大，笔画刚硬有力，背景为纯红色矩形横幅；保持图片中所有原有产品、背景及其他视觉元素不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "官方正品",
+      "乳液修护",
+      "改善毛躁",
+      "3瓶装",
+      "正品保障",
+      "修护干枯",
+      "秀发水润柔亮"
+    ],
+    "id": "0009",
+    "images": [
+      "images/text_edit/0009_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片右上角添加文字“早秋上新”，使用纯白色粗体无衬线字体，字号较大，水平排列，背景为鲜艳的红色直角矩形块；在图片右下角、红色红包图标下方添加文字“可叠惊喜红包”，使用白色常规粗体无衬线字体，字号适中，水平排列，背景为红色不规则折角形状；在图片左下角、价格标签上方添加文字“会员券后价”，使用白色常规粗体无衬线字体，字号适中，水平排列，背景为粉红色渐变圆角矩形；在图片底部横跨区域、价格标签下方添加文字“官方立减12% 会员券再减60元”，使用白色粗体无衬线字体，字号较大，水平排列，背景为纯红色直角矩形横幅；保持图片中其他所有原有内容和背景不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "早秋上新",
+      "可叠惊喜红包",
+      "会员券后价",
+      "官方立减12%会员券再减60元"
+    ],
+    "id": "0010",
+    "images": [
+      "images/text_edit/0010_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片左侧中部，于“第3天”下方添加文字“喝热水”，使用纯黑色粗体无衬线字体（类似黑体），字号较大，笔画粗壮有力，边缘平直，无描边或阴影，背景为浅米色纯色，与文字形成高对比；在其正下方添加“1.5L大容量”，使用白色无衬线字体，字号适中，背景为棕橙色圆角矩形；再下方添加“红胆技术”，使用深棕色无衬线字体，字号适中，背景为白色矩形；其正下方添加“持久保温”，使用深棕色无衬线字体，字号适中，背景为白色矩形，与上方文字背景统一；在图片底部中央偏左位置添加“新品上市价”，使用白色无衬线字体，背景为棕橙色矩形；在底部右侧添加“.9元起”，使用亮黄色无衬线字体，数字“9”醒目，背景为棕橙色矩形，与左侧价格文字背景统一；保持图片中所有原有内容和背景不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "喝热水",
+      "1.5L大容量",
+      "红胆技术",
+      "持久保温",
+      "新品上市价",
+      ".9元起"
+    ],
+    "id": "0011",
+    "images": [
+      "images/text_edit/0011_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片左上角添加文字“Cille希乐”，文字为白色，置于纯红色矩形背景上，英文“Cille”为粗体无衬线字体，中文“希乐”为粗体黑体，笔画粗壮有力，整体现代简洁，字号较大，无描边或阴影；在图片右上部“Tritan”下方添加文字“母婴级材质”，文字为黑色，置于浅蓝色渐变背景（从上至下由浅蓝过渡到更浅的蓝）上，字体为粗体无衬线，笔画粗壮平直，字号较大，清晰易读，无描边或阴影；在图片右侧中部“母婴级材质”下方添加文字“直饮&吸管”，文字为黑色，置于亮黄色圆角矩形背景上，字体为粗体无衬线，笔画粗壮有力，字号适中，无描边或阴影；在“直饮&吸管”下方添加文字“大容量”，文字为黑色，置于浅蓝色渐变背景（从上至下由浅蓝过渡到更浅的蓝）上，字体为粗体无衬线，笔画粗壮平直，字号较大，清晰易读，无描边或阴影；所有文字均为水平排列，无倾斜，保持图片原有其他内容不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "Cille希乐",
+      "母婴级材质",
+      "直饮&吸管",
+      "大容量"
+    ],
+    "id": "0012",
+    "images": [
+      "images/text_edit/0012_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片左上角添加“加厚内胆”文字，使用亮黄色粗体无衬线字体，字号较大，背景为纯红色矩形块，边角直角，与文字形成强烈对比；在图片左侧中部偏上位置添加“第10年”文字，使用深灰色粗体无衬线字体，字号巨大，背景为浅灰绿色渐变；在“第10年”正下方添加“还保温”文字，使用深灰色粗体无衬线字体，字号巨大，背景为浅灰绿色渐变，与上方文字风格统一；在图片左下部添加“超大容量”和“孕妇婴儿”两段文字，均使用深灰色粗体无衬线字体，字号适中，分别置于浅绿色圆角矩形背景内，左侧“超大容量”下方显示“2.0L”，右侧“孕妇婴儿”下方显示“放心使用”，所有文字均为水平排列无倾斜；保持图片中其他原有内容和背景不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "加厚内胆",
+      "第10年",
+      "还保温",
+      "超大容量",
+      "孕妇婴儿"
+    ],
+    "id": "0013",
+    "images": [
+      "images/text_edit/0013_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片左上角区域，于主标题上方添加“巨细刷头”文字，使用纯黑色、粗体无衬线字体，笔画刚硬粗壮、字形方正、字号较大，水平排列无倾斜，背景为浅米白色，无描边或阴影；在其正下方添加“薄如刀锋”文字，样式与上行完全一致；在“薄如刀锋”下方居中对齐添加“0.055mm的厚度”文字，使用常规无衬线字体、字号较小；再在其正下方居中对齐添加“细薄刷毛”文字，样式与上行一致；在图片左侧中部偏下、红色背景框内、位于“上下眼线”上方添加“网红野生眉”文字，使用白色常规无衬线字体，背景为纯红色矩形框，无描边或阴影；保持图片中所有其他原有内容和背景不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "巨细刷头",
+      "薄如刀锋",
+      "0.055mm的厚度",
+      "细薄刷毛",
+      "网红野生眉"
+    ],
+    "id": "0014",
+    "images": [
+      "images/text_edit/0014_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片左侧中部，紧邻行李箱图像左侧，添加文字“巨能装”，使用纯黑色粗体无衬线字体（类似黑体），笔画粗壮有力，字号较大，水平排列，背景为浅灰色渐变，无描边或阴影；在其正下方添加文字“抗压强”，同样使用纯黑色粗体无衬线字体，字号较大，水平排列，背景为浅灰色渐变，无描边或阴影；在“抗压强”下方添加文字“铝合金结实边框”，使用纯黑色常规无衬线字体，字号适中，水平排列，背景为白色圆角矩形框，无描边或阴影；在其下方添加文字“耐磨轻音万向轮”，同样使用纯黑色常规无衬线字体，字号适中，水平排列，背景为白色圆角矩形框，无描边或阴影；在最下方添加文字“结实耐用”，使用纯白色粗体无衬线字体，字号较大，水平排列，背景为黑色圆角矩形框，无描边或阴影。保持图片原有其他内容和背景不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "巨能装",
+      "抗压强",
+      "铝合金结实边框",
+      "耐磨轻音万向轮",
+      "结实耐用"
+    ],
+    "id": "0015",
+    "images": [
+      "images/text_edit/0015_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片左上角添加“苏泊尔”文字，使用白色粗体无衬线字体（类似黑体），字号较大，置于橙色矩形背景上，无描边；在图片左侧中部偏上添加“第2天”文字，使用黑色粗体无衬线字体（类似黑体），字号较大，置于浅米色背景上，无描边；在“第2天”正下方添加“还烫嘴”文字，使用黑色粗体无衬线字体（类似黑体），字号较大，置于浅米色背景上，无描边；在“还烫嘴”下方添加“孕婴适用”文字，使用白色常规无衬线字体（类似黑体），字号适中，置于红色圆角矩形背景上，无描边；在“孕婴适用”下方添加“加厚防爆”文字，使用白色常规无衬线字体（类似黑体），字号适中，置于红色圆角矩形背景上，无描边；在图片左侧中部偏下添加“超大容量”文字，使用白色常规无衬线字体（类似黑体），字号适中，置于深灰色矩形背景上，无描边；在图片左下角添加“全网低价”文字，使用白色常规无衬线字体（类似黑体），字号适中，置于红色矩形背景上，左侧带闪电图标，无描边；保持图片中其他所有原有内容和背景不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "苏泊尔",
+      "第2天",
+      "还烫嘴",
+      "孕婴适用",
+      "加厚防爆",
+      "超大容量",
+      "全网低价"
+    ],
+    "id": "0016",
+    "images": [
+      "images/text_edit/0016_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片左上角添加红色粗体无衬线字体“水卫士”，背景为浅灰白色，文字与背景高对比突出；在图片底部中央偏左添加白色粗体无衬线字体“除菌防霉”，置于深绿色矩形背景块上；在图片底部中央偏右添加白色粗体无衬线字体“深度清洁免浸泡”，置于与左侧相同的深绿色矩形背景块上；在图片底部左侧添加亮金色粗体无衬线字体“除菌率”，背景为深绿色，文字具有金属质感；保持图片原有其他内容和背景不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "水卫士",
+      "除菌防霉",
+      "深度清洁免浸泡",
+      "除菌率"
+    ],
+    "id": "0017",
+    "images": [
+      "images/text_edit/0017_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片左侧从上至下依次添加文字：“喝热水”位于顶部，使用深蓝色粗体无衬线字体，字号较大，背景为浅蓝色渐变，文字清晰醒目；“免费刻字”位于其下方，使用白色粗体无衬线字体，字号适中，背景为深蓝色圆角矩形，视觉突出；“吸管&直饮”和“一杯双饮”紧随其后，均使用深蓝色粗体无衬线字体，字号较大，背景为浅蓝色渐变，清晰易读；“直饮口”和“吸管口”分别位于对应功能图示上方，使用深蓝色粗体无衬线字体，字号适中，背景为浅蓝色渐变，视觉醒目。所有文字均为水平排列，无倾斜，保持图片原有其他内容和背景不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "喝热水",
+      "免费刻字",
+      "吸管&直饮",
+      "一杯双饮",
+      "直饮口",
+      "吸管口"
+    ],
+    "id": "0018",
+    "images": [
+      "images/text_edit/0018_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图片左侧中部，于产品主体左侧偏上位置添加文字“轻奢小容量”，使用纯白色、粗体无衬线字体，笔画平直刚硬，字号较大，水平排列，背景为浅米色渐变；在其正下方添加文字“48H真空锁温”，使用纯白色、粗体无衬线字体，笔画粗壮有力，字号适中，水平排列，背景为鲜红色圆角矩形；再在其下方添加文字“不保温”和“包退换”，两行文字均使用纯白色、粗体无衬线字体，笔画粗壮，带有轻微立体感或描边效果，字号较大，水平排列，背景为鲜红色渐变（从上至下由深红到浅红），边缘有轻微发光或描边效果；所有文字均无描边或阴影，保持图片原有其他内容不变。",
+    "task_name": "add_text_complex",
+    "task_type": "add_text",
+    "add_text": [
+      "轻奢小容量",
+      "48H真空锁温",
+      "不保温",
+      "包退换"
+    ],
+    "id": "0019",
+    "images": [
+      "images/text_edit/0019_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"稻香村官方旗舰店\",\"香糯软甜 馅心椰香\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "稻香村官方旗舰店",
+      "香糯软甜 馅心椰香"
+    ],
+    "id": "0020",
+    "images": [
+      "images/text_edit/0020_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"进口Tritan材质\",\"SUPOR 苏泊尔\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "进口Tritan材质",
+      "SUPOR 苏泊尔"
+    ],
+    "id": "0021",
+    "images": [
+      "images/text_edit/0021_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"JOOCYEE | 超级88\",\"至高带走5件礼\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "JOOCYEE | 超级88",
+      "至高带走5件礼"
+    ],
+    "id": "0022",
+    "images": [
+      "images/text_edit/0022_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"3200毫升\",\"72小时\",\"2500毫升\",\"5000毫升\",\"保温保冷\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "3200毫升",
+      "72小时",
+      "2500毫升",
+      "5000毫升",
+      "保温保冷"
+    ],
+    "id": "0023",
+    "images": [
+      "images/text_edit/0023_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"超级88\",\"茶水分离\",\"全钢时代\",\"双层茶仓\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "超级88",
+      "茶水分离",
+      "全钢时代",
+      "双层茶仓"
+    ],
+    "id": "0024",
+    "images": [
+      "images/text_edit/0024_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"抗菌316\",\"抑菌率\",\"99%\",\"德国品质\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "抗菌316",
+      "抑菌率",
+      "99%",
+      "德国品质"
+    ],
+    "id": "0025",
+    "images": [
+      "images/text_edit/0025_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"100%新疆长绒棉套件\",\"免费试睡\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "100%新疆长绒棉套件",
+      "免费试睡"
+    ],
+    "id": "0026",
+    "images": [
+      "images/text_edit/0026_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"681\",\"9.15 00:00 - 9.21 23:59\",\"599\",\"活动价\",\"82\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "681",
+      "9.15 00:00 - 9.21 23:59",
+      "599",
+      "活动价",
+      "82"
+    ],
+    "id": "0027",
+    "images": [
+      "images/text_edit/0027_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"隐藏提手\",\"316L不锈钢\",\"双层防烫\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "隐藏提手",
+      "316L不锈钢",
+      "双层防烫"
+    ],
+    "id": "0028",
+    "images": [
+      "images/text_edit/0028_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"烫金提袋\",\"婚嫁对壶 喜结良缘\",\"国潮礼盒\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "烫金提袋",
+      "婚嫁对壶 喜结良缘",
+      "国潮礼盒"
+    ],
+    "id": "0029",
+    "images": [
+      "images/text_edit/0029_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"限时礼赠\",\"9/15 - 9/21\",\"小象挂件\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "限时礼赠",
+      "9/15 - 9/21",
+      "小象挂件"
+    ],
+    "id": "0030",
+    "images": [
+      "images/text_edit/0030_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"爆售20W+\",\"新品上市立减20元!\",\"官方旗舰店\",\"第\",\"天喝热水\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "爆售20W+",
+      "新品上市立减20元!",
+      "官方旗舰店",
+      "第",
+      "天喝热水"
+    ],
+    "id": "0031",
+    "images": [
+      "images/text_edit/0031_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"¥1516\",\"秋季焕新 精选折扣\",\"¥3800\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "¥1516",
+      "秋季焕新 精选折扣",
+      "¥3800"
+    ],
+    "id": "0032",
+    "images": [
+      "images/text_edit/0032_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"2000毫升大容量\",\"SUPOR 苏泊尔 | 官方旗舰店\",\"长效保温\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "2000毫升大容量",
+      "SUPOR 苏泊尔 | 官方旗舰店",
+      "长效保温"
+    ],
+    "id": "0033",
+    "images": [
+      "images/text_edit/0033_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"配件保修\",\"第五辅助轮\",\"宽拉杆大深仓甄选系列\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "配件保修",
+      "第五辅助轮",
+      "宽拉杆大深仓甄选系列"
+    ],
+    "id": "0034",
+    "images": [
+      "images/text_edit/0034_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"一盖双饮\",\"650ml大容量\",\"母婴奶瓶级材质\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "一盖双饮",
+      "650ml大容量",
+      "母婴奶瓶级材质"
+    ],
+    "id": "0035",
+    "images": [
+      "images/text_edit/0035_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"保温新高度，健康每一天!\",\"玻璃红胆\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "保温新高度，健康每一天!",
+      "玻璃红胆"
+    ],
+    "id": "0036",
+    "images": [
+      "images/text_edit/0036_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"软糯0飞粉 遇水不花妆\",\"粉扑+镜子+腮红\",\"贴贴好气色\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "软糯0飞粉 遇水不花妆",
+      "粉扑+镜子+腮红",
+      "贴贴好气色"
+    ],
+    "id": "0037",
+    "images": [
+      "images/text_edit/0037_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"316L不锈钢\",\"SUPOR 苏泊尔\",\"独立提拎茶仓\",\"24H持久保温\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "316L不锈钢",
+      "SUPOR 苏泊尔",
+      "独立提拎茶仓",
+      "24H持久保温"
+    ],
+    "id": "0038",
+    "images": [
+      "images/text_edit/0038_0.jpg"
+    ]
+  },
+  {
+    "prompt": "在图中添加文本：\"国货严选\",\"双拼设计多色可选\",\"全棉面料软糯亲肤\"。",
+    "task_name": "add_text_simple",
+    "task_type": "add_text",
+    "add_text": [
+      "国货严选",
+      "双拼设计多色可选",
+      "全棉面料软糯亲肤"
+    ],
+    "id": "0039",
+    "images": [
+      "images/text_edit/0039_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Add new printed text 'GREETINGS' to the lower right section of the projector screen, rendered in a large, blocky, light green font similar to the existing projected words, ensuring it appears slightly blurred and illuminated as if projected, integrating seamlessly with the screen's texture and ambient lighting.",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "GREETINGS"
+    ],
+    "id": "0040",
+    "images": [
+      "images/text_edit/0040_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Add a new, small, printed text block to the bottom left of the image, below the main body text, stating 'Taste the Zzzip today!' in a simple, vintage sans-serif font that matches the faded black ink and grainy texture of the surrounding ad copy, ensuring it blends seamlessly with the paper's aged appearance.",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "Taste the Zzzip today!"
+    ],
+    "id": "0041",
+    "images": [
+      "images/text_edit/0041_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Add new handwritten text, in an elegant black cursive font, placed on the white background area below the 'el 600 D transformable' title and above the descriptive paragraph, subtly highlighting a feature of the car visible in the image, ensuring it blends naturally with the existing advertisement style.",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "el 600 D transformable"
+    ],
+    "id": "0042",
+    "images": [
+      "images/text_edit/0042_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Add 'Living Room' above the area labeled 'Lining'",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "Living Room"
+    ],
+    "id": "0043",
+    "images": [
+      "images/text_edit/0043_0.png"
+    ]
+  },
+  {
+    "prompt": "Add 'Word Game' above the letters",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "Word Game"
+    ],
+    "id": "0044",
+    "images": [
+      "images/text_edit/0044_0.png"
+    ]
+  },
+  {
+    "prompt": "Add new printed text that reads 'Arsenal Canada 2010 Toronto' onto one of the empty red advertising panels in the upper stadium tier, ensuring the text is rendered in a bold, sans-serif white font that matches the style and illumination of the adjacent 'Arsenal Indonesia 1931 Singapore' sign for seamless integration into the stadium's existing signage.",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "Arsenal Canada 2010 Toronto"
+    ],
+    "id": "0045",
+    "images": [
+      "images/text_edit/0045_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Add 'Tourist Map' below the map title",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "Tourist Map"
+    ],
+    "id": "0046",
+    "images": [
+      "images/text_edit/0046_0.png"
+    ]
+  },
+  {
+    "prompt": "Add new printed text on a small, distressed parchment-like label, similar in style and color to the existing sign, that reads 'Executioner's Axe' in a historical serif font, positioned on the wooden wall just below the axe's blade, ensuring it blends naturally with the exhibit's rustic aesthetic and dim lighting.",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "Executioner"
+    ],
+    "id": "0047",
+    "images": [
+      "images/text_edit/0047_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Add a new section title, 'LOCAL NEWS', printed in a dark black, slightly textured serif font, similar in style and size to the 'HOMELESSNESS' or 'WILDLIFE' titles, positioned neatly below the left column of the main article text and above the 'HOMELESSNESS' section, ensuring it seamlessly integrates with the newspaper's paper texture and lighting conditions.",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "LOCAL NEWS"
+    ],
+    "id": "0048",
+    "images": [
+      "images/text_edit/0048_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Add the text 'Ref. 116660' to the watch face, positioned subtly below 'OFFICIALLY CERTIFIED' and above 'SWISS MADE', using a white, crisp, sans-serif font that precisely matches the existing printed text in style and size, ensuring it integrates realistically with the watch's dark blue dial, respecting the reflections and subtle texture of the surface.",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "Ref. 116660"
+    ],
+    "id": "0049",
+    "images": [
+      "images/text_edit/0049_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Add 'Back to School!' above the existing text on the right side",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "Back to School!"
+    ],
+    "id": "0050",
+    "images": [
+      "images/text_edit/0050_0.png"
+    ]
+  },
+  {
+    "prompt": "Add the text \"I enjoy building and exploring Second Life!\" in a clean, digital, sans-serif font, matching the dark gray color and size of the existing text in the 'About' section, positioned directly below the listed 'My links' within the 'Daniel Voyager - Profile' window, ensuring it appears as a natural part of the user interface.",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "I enjoy building and exploring Second Life!"
+    ],
+    "id": "0051",
+    "images": [
+      "images/text_edit/0051_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Add new text to the image by placing a weathered, slightly torn concert flyer on the brick wall of the building to the left of the 'chameleon' sign, featuring bold, black sans-serif text that reads 'BAND NAME - LIVE SHOW' with a smaller date below, ensuring the flyer's texture, lighting, and shadows realistically integrate with the brick facade under the existing daylight conditions.",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "BAND NAME - LIVE SHOW"
+    ],
+    "id": "0052",
+    "images": [
+      "images/text_edit/0052_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Add the text \"AVAILABLE NOW\" in a bold, red, sans-serif font matching the style and color of \"NECESITO DECIRTE\", positioned below \"MERCADO NEGRO\" and centered horizontally, to announce immediate availability while maintaining the existing typographic hierarchy and color scheme.",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "AVAILABLE NOW"
+    ],
+    "id": "0053",
+    "images": [
+      "images/text_edit/0053_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Add new text in a golden, printed style, similar to the existing text on the sign, placed directly below the current date range, stating 'KỶ NIỆM VĨNH CỬU' (Eternal Commemoration), ensuring it matches the metallic sheen and lighting of the surrounding text.",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "KỶ NIỆM VĨNH CỬU"
+    ],
+    "id": "0054",
+    "images": [
+      "images/text_edit/0054_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Add 'Journaling Daily' below the existing text",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "Journaling Daily"
+    ],
+    "id": "0055",
+    "images": [
+      "images/text_edit/0055_0.png"
+    ]
+  },
+  {
+    "prompt": "Add new printed text centered below the author names, in a sans-serif font matching the existing text's size and dark red color, stating 'Updated Edition' with a slight emboss effect to simulate it being part of the book cover's design, respecting the book's glossy texture and subtle lighting.",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "Updated Edition"
+    ],
+    "id": "0056",
+    "images": [
+      "images/text_edit/0056_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Add the text 'MAINTENANCE BAY' in a bold, dark grey, sans-serif font, matching the style and size of 'HAN LUYMES', directly centered below it on the hangar wall, ensuring the new text casts subtle shadows and integrates seamlessly with the existing texture and lighting of the building.",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "MAINTENANCE BAY"
+    ],
+    "id": "0057",
+    "images": [
+      "images/text_edit/0057_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Add new white, sans-serif, block text reading 'ULTRA' to the lower left corner of the license plate frame, ensuring its size, font, color, and subtle embossed texture perfectly match the existing 'RUNNING A MARATHON' text, with appropriate lighting and shadows for seamless integration.",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "ULTRA"
+    ],
+    "id": "0058",
+    "images": [
+      "images/text_edit/0058_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Add new white, printed text that reads \"Collection Times: Mon-Fri 5 PM\" to the small rectangular panel below the top mail slot on the leftmost blue U.S. Mailbox, ensuring the text appears slightly faded and weathered to match the mailbox's aged metallic surface and the overall lighting of the scene.",
+    "task_name": "add_text_tongyong",
+    "task_type": "add_text",
+    "add_text": [
+      "Collection Times: Mon-Fri 5 PM"
+    ],
+    "id": "0059",
+    "images": [
+      "images/text_edit/0059_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"严重脚气\"中的\"严\"修改为\"镨\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "镨"
+    ],
+    "bbox": [
+      [
+        30,
+        0,
+        272,
+        257
+      ]
+    ],
+    "id": "0060",
+    "images": [
+      "images/text_edit/0060_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"三合手链\"中的\"三\"修改为\"醮\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "醮"
+    ],
+    "bbox": [
+      [
+        185,
+        34,
+        345,
+        242
+      ]
+    ],
+    "id": "0061",
+    "images": [
+      "images/text_edit/0061_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"蒸盒处理\"中的\"理\"修改为\"嶷\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "嶷"
+    ],
+    "bbox": [
+      [
+        745,
+        771,
+        970,
+        1024
+      ]
+    ],
+    "id": "0062",
+    "images": [
+      "images/text_edit/0062_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"干洗店也在用\"中的\"用\"修改为\"鳓\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "鳓"
+    ],
+    "bbox": [
+      [
+        800,
+        666,
+        948,
+        897
+      ]
+    ],
+    "id": "0063",
+    "images": [
+      "images/text_edit/0063_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"老北京布鞋\"中的\"布\"修改为\"蠊\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "蠊"
+    ],
+    "bbox": [
+      [
+        485,
+        2,
+        647,
+        217
+      ]
+    ],
+    "id": "0064",
+    "images": [
+      "images/text_edit/0064_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"平安喜乐\"中的\"安\"修改为\"膻\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "膻"
+    ],
+    "bbox": [
+      [
+        265,
+        70,
+        512,
+        308
+      ]
+    ],
+    "id": "0065",
+    "images": [
+      "images/text_edit/0065_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"麻辣香锅调料\"中的\"调\"修改为\"瓣\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "瓣"
+    ],
+    "bbox": [
+      [
+        679,
+        829,
+        849,
+        1024
+      ]
+    ],
+    "id": "0066",
+    "images": [
+      "images/text_edit/0066_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"摩擦吱吱响\"中的\"响\"修改为\"檗\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "檗"
+    ],
+    "bbox": [
+      [
+        820,
+        799,
+        1024,
+        1024
+      ]
+    ],
+    "id": "0067",
+    "images": [
+      "images/text_edit/0067_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"强劲稳固\"中的\"强\"修改为\"癍\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "癍"
+    ],
+    "bbox": [
+      [
+        137,
+        43,
+        324,
+        258
+      ]
+    ],
+    "id": "0068",
+    "images": [
+      "images/text_edit/0068_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"主厨掌勺\"中的\"勺\"修改为\"醢\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "醢"
+    ],
+    "bbox": [
+      [
+        558,
+        19,
+        741,
+        240
+      ]
+    ],
+    "id": "0069",
+    "images": [
+      "images/text_edit/0069_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"真贝贝看得见\"中的\"看\"修改为\"蹦\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "蹦"
+    ],
+    "bbox": [
+      [
+        509,
+        0,
+        678,
+        220
+      ]
+    ],
+    "id": "0070",
+    "images": [
+      "images/text_edit/0070_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"麻辣甲鱼\"中的\"鱼\"修改为\"鳃\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "鳃"
+    ],
+    "bbox": [
+      [
+        653,
+        0,
+        846,
+        228
+      ]
+    ],
+    "id": "0071",
+    "images": [
+      "images/text_edit/0071_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"耐用三十年\"中的\"用\"修改为\"镫\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "镫"
+    ],
+    "bbox": [
+      [
+        226,
+        397,
+        414,
+        613
+      ]
+    ],
+    "id": "0072",
+    "images": [
+      "images/text_edit/0072_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"保暖套装\"中的\"保\"修改为\"羹\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "羹"
+    ],
+    "bbox": [
+      [
+        190,
+        312,
+        352,
+        516
+      ]
+    ],
+    "id": "0073",
+    "images": [
+      "images/text_edit/0073_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"奥迪专用\"中的\"迪\"修改为\"鳊\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "鳊"
+    ],
+    "bbox": [
+      [
+        295,
+        138,
+        509,
+        402
+      ]
+    ],
+    "id": "0074",
+    "images": [
+      "images/text_edit/0074_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"以黑养黑\"中的\"以\"修改为\"瞻\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "瞻"
+    ],
+    "bbox": [
+      [
+        139,
+        5,
+        330,
+        201
+      ]
+    ],
+    "id": "0075",
+    "images": [
+      "images/text_edit/0075_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"磨刀神器\"中的\"器\"修改为\"齄\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "齄"
+    ],
+    "bbox": [
+      [
+        521,
+        26,
+        688,
+        201
+      ]
+    ],
+    "id": "0076",
+    "images": [
+      "images/text_edit/0076_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"稳固不掉落\"中的\"固\"修改为\"瞩\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "瞩"
+    ],
+    "bbox": [
+      [
+        793,
+        294,
+        1024,
+        476
+      ]
+    ],
+    "id": "0077",
+    "images": [
+      "images/text_edit/0077_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"时来运转\"中的\"运\"修改为\"甓\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "甓"
+    ],
+    "bbox": [
+      [
+        749,
+        440,
+        990,
+        626
+      ]
+    ],
+    "id": "0078",
+    "images": [
+      "images/text_edit/0078_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将\"车厢现货\"中的\"货\"修改为\"翻\"",
+    "task_name": "edit_rare_char",
+    "task_type": "edit_text",
+    "change_text": [
+      "翻"
+    ],
+    "bbox": [
+      [
+        699,
+        3,
+        903,
+        195
+      ]
+    ],
+    "id": "0079",
+    "images": [
+      "images/text_edit/0079_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Replace the word 'KMIC' with 'Skate Factory'",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "Skate Factory"
+    ],
+    "bbox": [
+      [
+        33,
+        122,
+        75,
+        140
+      ]
+    ],
+    "id": "0080",
+    "images": [
+      "images/text_edit/0080_0.png"
+    ]
+  },
+  {
+    "prompt": "Change 'ERM 2026' to 'FEST EVES FAL 2019'",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "FEST EVES FAL 2019"
+    ],
+    "bbox": [
+      [
+        206,
+        461,
+        286,
+        512
+      ]
+    ],
+    "id": "0081",
+    "images": [
+      "images/text_edit/0081_0.png"
+    ]
+  },
+  {
+    "prompt": "Replace the word 'BIRTHDAY' on the cake with 'HAPPY BIRTHDAY'",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "HAPPY BIRTHDAY"
+    ],
+    "bbox": [
+      [
+        142,
+        209,
+        376,
+        303
+      ]
+    ],
+    "id": "0082",
+    "images": [
+      "images/text_edit/0082_0.png"
+    ]
+  },
+  {
+    "prompt": "Change 'LOSE YOU' to 'FORGET YOU'",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "FORGET YOU"
+    ],
+    "bbox": [
+      [
+        184,
+        290,
+        321,
+        327
+      ]
+    ],
+    "id": "0083",
+    "images": [
+      "images/text_edit/0083_0.png"
+    ]
+  },
+  {
+    "prompt": "Replace the central banner text \"Welcome To WonderCon!\" with \"Welcome To Our Grand Event!\", ensuring the new white, bold, sans-serif text perfectly matches the original's font style, size, perspective, and subtle shadow effect, while maintaining the blue banner's background pattern, existing WonderCon logos, San Diego Comic-Con logo, APE logo, and overall lighting and texture of the original sign.",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "Welcome To Our Grand Event!"
+    ],
+    "bbox": [
+      [
+        0,
+        189,
+        712,
+        357
+      ]
+    ],
+    "id": "0084",
+    "images": [
+      "images/text_edit/0084_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Replace 'Bonne Maman' with 'Wild Blueberry' on all labels",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "Wild Blueberry"
+    ],
+    "bbox": [
+      [
+        415,
+        220,
+        474,
+        253
+      ]
+    ],
+    "id": "0085",
+    "images": [
+      "images/text_edit/0085_0.png"
+    ]
+  },
+  {
+    "prompt": "Change 'BUILD PUBLIC AWARENESS' to 'BUILD COMMUNITY ENGAGEMENT'",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "BUILD COMMUNITY ENGAGEMENT"
+    ],
+    "bbox": [
+      [
+        53,
+        88,
+        350,
+        131
+      ]
+    ],
+    "id": "0086",
+    "images": [
+      "images/text_edit/0086_0.png"
+    ]
+  },
+  {
+    "prompt": "Replace 'millitvo' with 'million' and correct spelling errors",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "million"
+    ],
+    "bbox": [
+      [
+        123,
+        200,
+        353,
+        263
+      ]
+    ],
+    "id": "0087",
+    "images": [
+      "images/text_edit/0087_0.png"
+    ]
+  },
+  {
+    "prompt": "Change '2022' to '2023'",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "2023"
+    ],
+    "bbox": [
+      [
+        215,
+        172,
+        293,
+        201
+      ]
+    ],
+    "id": "0088",
+    "images": [
+      "images/text_edit/0088_0.png"
+    ]
+  },
+  {
+    "prompt": "Change '2017' to '2023'",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "2023"
+    ],
+    "bbox": [
+      [
+        153,
+        119,
+        353,
+        203
+      ]
+    ],
+    "id": "0089",
+    "images": [
+      "images/text_edit/0089_0.png"
+    ]
+  },
+  {
+    "prompt": "Replace 'FACE MISTR' with 'FACE MIST' on all bottles",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "FACE MIST"
+    ],
+    "bbox": [
+      [
+        172,
+        322,
+        213,
+        351
+      ]
+    ],
+    "id": "0090",
+    "images": [
+      "images/text_edit/0090_0.png"
+    ]
+  },
+  {
+    "prompt": "Change 'History' to 'Recent Transactions'",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "Recent Transactions"
+    ],
+    "bbox": [
+      [
+        225,
+        121,
+        276,
+        146
+      ]
+    ],
+    "id": "0091",
+    "images": [
+      "images/text_edit/0091_0.png"
+    ]
+  },
+  {
+    "prompt": "Change 'Size-Chart' to 'Size Chart'",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "Size Chart"
+    ],
+    "bbox": [
+      [
+        182,
+        84,
+        332,
+        108
+      ]
+    ],
+    "id": "0092",
+    "images": [
+      "images/text_edit/0092_0.png"
+    ]
+  },
+  {
+    "prompt": "Change '2013' to '2023'",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "2023"
+    ],
+    "bbox": [
+      [
+        119,
+        39,
+        384,
+        111
+      ]
+    ],
+    "id": "0093",
+    "images": [
+      "images/text_edit/0093_0.png"
+    ]
+  },
+  {
+    "prompt": "Change 'JANUARY' to 'DECEMBER'",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "DECEMBER"
+    ],
+    "bbox": [
+      [
+        157,
+        49,
+        351,
+        84
+      ]
+    ],
+    "id": "0094",
+    "images": [
+      "images/text_edit/0094_0.png"
+    ]
+  },
+  {
+    "prompt": "Change 'November' to 'December'",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "December"
+    ],
+    "bbox": [
+      [
+        81,
+        211,
+        411,
+        284
+      ]
+    ],
+    "id": "0095",
+    "images": [
+      "images/text_edit/0095_0.png"
+    ]
+  },
+  {
+    "prompt": "Change 'SHOWER GET' to 'Shower Gel'",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "Shower Gel"
+    ],
+    "bbox": [
+      [
+        33,
+        306,
+        113,
+        322
+      ]
+    ],
+    "id": "0096",
+    "images": [
+      "images/text_edit/0096_0.png"
+    ]
+  },
+  {
+    "prompt": "Change '2020' to '2021'",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "2021"
+    ],
+    "bbox": [
+      [
+        197,
+        12,
+        311,
+        63
+      ]
+    ],
+    "id": "0097",
+    "images": [
+      "images/text_edit/0097_0.png"
+    ]
+  },
+  {
+    "prompt": "Replace the text on the white and blue directional sign in the lower image, which currently reads \"Hastings 6 Battle station A 2100\" with \"London 50 Town Centre A 1\", ensuring the new text matches the original blue color, sans-serif font, and size, while retaining the red train station icon and black arrow pointing right, and seamlessly integrating the new text into the sign's weathered texture and lighting conditions without altering the sign's overall composition or mounting.",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "London 50 Town Centre A 1"
+    ],
+    "bbox": [
+      [
+        178,
+        571,
+        394,
+        716
+      ]
+    ],
+    "id": "0098",
+    "images": [
+      "images/text_edit/0098_0.jpg"
+    ]
+  },
+  {
+    "prompt": "Change 'WHEEL SIZE' to 'Bicycle Wheel Size'",
+    "task_name": "edit_tongyong_text",
+    "task_type": "edit_text",
+    "change_text": [
+      "Bicycle Wheel Size"
+    ],
+    "bbox": [
+      [
+        129,
+        25,
+        375,
+        61
+      ]
+    ],
+    "id": "0099",
+    "images": [
+      "images/text_edit/0099_0.png"
+    ]
+  }
+]

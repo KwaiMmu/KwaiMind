@@ -1,0 +1,21 @@
+diffsynth @ git+https://github.com/modelscope/DiffSynth-Studio.git@3f3df523ed6273ee4c9dae245de2c7abd8fd4b5f
+torch==2.9.1
+torchvision==0.24.1
+torchaudio==2.9.1
+transformers==4.57.6
+safetensors==0.7.0
+einops==0.8.1
+numpy==2.2.6
+Pillow==12.0.0
+tqdm==4.67.1
+imageio==2.37.2
+ftfy==6.3.1
+modelscope==1.33.0
+huggingface-hub==0.34.0
+sentencepiece==0.2.1
+protobuf==6.33.5
+accelerate==1.13.0
+peft==0.13.2
+pandas==2.3.3
+datasets==4.0.0
+google-genai==1.68.0

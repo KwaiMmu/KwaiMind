@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kwaimind"
+version = "0.1.0"
+description = "Minimal inference and evaluation toolkit for KwaiMind"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "CC-BY-NC-ND-4.0"}
+dependencies = [
+  "torch>=2.0",
+  "Pillow>=10",
+  "safetensors>=0.4",
+]
+
+[project.optional-dependencies]
+eval = ["google-genai>=1.68"]
+
+[tool.setuptools.packages.find]
+include = ["kwaimind*"]

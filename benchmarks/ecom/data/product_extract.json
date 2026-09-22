@@ -1,0 +1,702 @@
+[
+  {
+    "prompt": "将图中的儿童头盔提取出来，放在纯白色背景上",
+    "id": "0000",
+    "images": [
+      "images/product_extract/0000_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的手串单独提取出来，去掉原有背景，放在白色背景上",
+    "id": "0001",
+    "images": [
+      "images/product_extract/0001_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品冲牙器，背景清除为纯白",
+    "id": "0002",
+    "images": [
+      "images/product_extract/0002_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的固态硬盘提取出来，放在纯白色背景上",
+    "id": "0003",
+    "images": [
+      "images/product_extract/0003_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品胸针，背景清除为纯白",
+    "id": "0004",
+    "images": [
+      "images/product_extract/0004_0.png"
+    ]
+  },
+  {
+    "prompt": "把图中的劳力士手表单独提取出来，去掉原有背景，放在白色背景上",
+    "id": "0005",
+    "images": [
+      "images/product_extract/0005_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的黑色蕾丝内裤单独提取出来，去掉原有背景，放在白色背景上",
+    "id": "0006",
+    "images": [
+      "images/product_extract/0006_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图片中的灰色高领毛衣提取出来，背景改为浅灰色",
+    "id": "0007",
+    "images": [
+      "images/product_extract/0007_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的角楼模型抠出来，背景替换为白色",
+    "id": "0008",
+    "images": [
+      "images/product_extract/0008_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的书籍提取出来，放在纯白色背景上",
+    "id": "0009",
+    "images": [
+      "images/product_extract/0009_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品白色凉鞋，背景清除为纯白",
+    "id": "0010",
+    "images": [
+      "images/product_extract/0010_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的直发梳抠出来，背景替换为白色",
+    "id": "0011",
+    "images": [
+      "images/product_extract/0011_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的饮料盒抠出来，背景替换为白色",
+    "id": "0012",
+    "images": [
+      "images/product_extract/0012_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的羽毛球拍提取出来，放在纯白色背景上",
+    "id": "0013",
+    "images": [
+      "images/product_extract/0013_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图片中的金项链提取出来，背景改为浅灰色",
+    "id": "0014",
+    "images": [
+      "images/product_extract/0014_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品狗头棉花糖，背景清除为纯白",
+    "id": "0015",
+    "images": [
+      "images/product_extract/0015_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的辣条，生成白底商品图",
+    "id": "0016",
+    "images": [
+      "images/product_extract/0016_0.png"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品内裤，背景清除为纯白",
+    "id": "0017",
+    "images": [
+      "images/product_extract/0017_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图片中的手表提取出来，背景改为浅灰色",
+    "id": "0018",
+    "images": [
+      "images/product_extract/0018_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的玻璃杯，生成白底商品图",
+    "id": "0019",
+    "images": [
+      "images/product_extract/0019_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的白色玩具摩托车提取出来，放在纯白色背景上",
+    "id": "0020",
+    "images": [
+      "images/product_extract/0020_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品白色随身WiFi，背景清除为纯白",
+    "id": "0021",
+    "images": [
+      "images/product_extract/0021_0.png"
+    ]
+  },
+  {
+    "prompt": "将图中的白色触控笔提取出来，放在纯白色背景上",
+    "id": "0022",
+    "images": [
+      "images/product_extract/0022_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的麦克风，生成白底商品图",
+    "id": "0023",
+    "images": [
+      "images/product_extract/0023_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的手机壳单独提取出来，去掉原有背景，放在白色背景上",
+    "id": "0024",
+    "images": [
+      "images/product_extract/0024_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的黑色运动鞋从背景中分离，放置在干净的白色背景上",
+    "id": "0025",
+    "images": [
+      "images/product_extract/0025_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的紫色充电宝提取出来，放在纯白色背景上",
+    "id": "0026",
+    "images": [
+      "images/product_extract/0026_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的青龙摆件抠出来，背景替换为白色",
+    "id": "0027",
+    "images": [
+      "images/product_extract/0027_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的手机壳提取出来，放在纯白色背景上",
+    "id": "0028",
+    "images": [
+      "images/product_extract/0028_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的运动鞋从背景中分离，放置在干净的白色背景上",
+    "id": "0029",
+    "images": [
+      "images/product_extract/0029_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的儿童套装，生成白底商品图",
+    "id": "0030",
+    "images": [
+      "images/product_extract/0030_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的鸟浴盐从背景中分离，放置在干净的白色背景上",
+    "id": "0031",
+    "images": [
+      "images/product_extract/0031_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的电视抠图处理，背景换为透明或纯色",
+    "id": "0032",
+    "images": [
+      "images/product_extract/0032_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图片中的床单提取出来，背景改为浅灰色",
+    "id": "0033",
+    "images": [
+      "images/product_extract/0033_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的监控摄像头从背景中分离，放置在干净的白色背景上",
+    "id": "0034",
+    "images": [
+      "images/product_extract/0034_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品粉色脚底按摩垫，背景清除为纯白",
+    "id": "0035",
+    "images": [
+      "images/product_extract/0035_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的黑色外套，生成白底商品图",
+    "id": "0036",
+    "images": [
+      "images/product_extract/0036_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的猫咪抠图处理，背景换为透明或纯色",
+    "id": "0037",
+    "images": [
+      "images/product_extract/0037_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的打印机从背景中分离，放置在干净的白色背景上",
+    "id": "0038",
+    "images": [
+      "images/product_extract/0038_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图片中的花朵笔提取出来，背景改为浅灰色",
+    "id": "0039",
+    "images": [
+      "images/product_extract/0039_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图片中的玉石提取出来，背景改为浅灰色",
+    "id": "0040",
+    "images": [
+      "images/product_extract/0040_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品银色平底鞋，背景清除为纯白",
+    "id": "0041",
+    "images": [
+      "images/product_extract/0041_0.png"
+    ]
+  },
+  {
+    "prompt": "将图中的透明手提包从背景中分离，放置在干净的白色背景上",
+    "id": "0042",
+    "images": [
+      "images/product_extract/0042_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的陶瓷盘子抠图处理，背景换为透明或纯色",
+    "id": "0043",
+    "images": [
+      "images/product_extract/0043_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图片中的手表提取出来，背景改为浅灰色",
+    "id": "0044",
+    "images": [
+      "images/product_extract/0044_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的黑色皮质手提包，生成白底商品图",
+    "id": "0045",
+    "images": [
+      "images/product_extract/0045_0.png"
+    ]
+  },
+  {
+    "prompt": "把图片中的白色运动鞋提取出来，背景改为浅灰色",
+    "id": "0046",
+    "images": [
+      "images/product_extract/0046_0.png"
+    ]
+  },
+  {
+    "prompt": "提取图中的玻璃油壶，生成白底商品图",
+    "id": "0047",
+    "images": [
+      "images/product_extract/0047_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的修甲套装抠图处理，背景换为透明或纯色",
+    "id": "0048",
+    "images": [
+      "images/product_extract/0048_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的保温杯从背景中分离，放置在干净的白色背景上",
+    "id": "0049",
+    "images": [
+      "images/product_extract/0049_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的男士泳裤抠出来，背景替换为白色",
+    "id": "0050",
+    "images": [
+      "images/product_extract/0050_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的格子被子单独提取出来，去掉原有背景，放在白色背景上",
+    "id": "0051",
+    "images": [
+      "images/product_extract/0051_0.png"
+    ]
+  },
+  {
+    "prompt": "把图中的无线AP面板单独提取出来，去掉原有背景，放在白色背景上",
+    "id": "0052",
+    "images": [
+      "images/product_extract/0052_0.png"
+    ]
+  },
+  {
+    "prompt": "把图中的一次性水晶大盘抠出来，背景替换为白色",
+    "id": "0053",
+    "images": [
+      "images/product_extract/0053_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的红色礼盒从背景中分离，放置在干净的白色背景上",
+    "id": "0054",
+    "images": [
+      "images/product_extract/0054_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的孔雀蓝丝绸床品套装从背景中分离，放置在干净的白色背景上",
+    "id": "0055",
+    "images": [
+      "images/product_extract/0055_0.png"
+    ]
+  },
+  {
+    "prompt": "将图中的微景观盆栽从背景中分离，放置在干净的白色背景上",
+    "id": "0056",
+    "images": [
+      "images/product_extract/0056_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的黑色皮鞋，生成白底商品图",
+    "id": "0057",
+    "images": [
+      "images/product_extract/0057_0.png"
+    ]
+  },
+  {
+    "prompt": "提取图中的文胸，生成白底商品图",
+    "id": "0058",
+    "images": [
+      "images/product_extract/0058_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品绿色雪地靴，背景清除为纯白",
+    "id": "0059",
+    "images": [
+      "images/product_extract/0059_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图片中的护踝提取出来，背景改为浅灰色",
+    "id": "0060",
+    "images": [
+      "images/product_extract/0060_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的透明手机壳抠出来，背景替换为白色",
+    "id": "0061",
+    "images": [
+      "images/product_extract/0061_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的儿童运动鞋从背景中分离，放置在干净的白色背景上",
+    "id": "0062",
+    "images": [
+      "images/product_extract/0062_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的蓝色牛仔裤提取出来，放在纯白色背景上",
+    "id": "0063",
+    "images": [
+      "images/product_extract/0063_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的黑色毛绒短靴单独提取出来，去掉原有背景，放在白色背景上",
+    "id": "0064",
+    "images": [
+      "images/product_extract/0064_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的口腔喷雾提取出来，放在纯白色背景上",
+    "id": "0065",
+    "images": [
+      "images/product_extract/0065_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的杨梅，生成白底商品图",
+    "id": "0066",
+    "images": [
+      "images/product_extract/0066_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品彩色笔，背景清除为纯白",
+    "id": "0067",
+    "images": [
+      "images/product_extract/0067_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的红枣黄芪水抠出来，背景替换为白色",
+    "id": "0068",
+    "images": [
+      "images/product_extract/0068_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的灰色毛衣单独提取出来，去掉原有背景，放在白色背景上",
+    "id": "0069",
+    "images": [
+      "images/product_extract/0069_0.png"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品透明仓鼠笼，背景清除为纯白",
+    "id": "0070",
+    "images": [
+      "images/product_extract/0070_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的绿色大理石纹手机壳抠图处理，背景换为透明或纯色",
+    "id": "0071",
+    "images": [
+      "images/product_extract/0071_0.png"
+    ]
+  },
+  {
+    "prompt": "将图中的白酒从背景中分离，放置在干净的白色背景上",
+    "id": "0072",
+    "images": [
+      "images/product_extract/0072_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的金手镯从背景中分离，放置在干净的白色背景上",
+    "id": "0073",
+    "images": [
+      "images/product_extract/0073_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的衣柜单独提取出来，去掉原有背景，放在白色背景上",
+    "id": "0074",
+    "images": [
+      "images/product_extract/0074_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的绿色运动鞋单独提取出来，去掉原有背景，放在白色背景上",
+    "id": "0075",
+    "images": [
+      "images/product_extract/0075_0.png"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品童鞋，背景清除为纯白",
+    "id": "0076",
+    "images": [
+      "images/product_extract/0076_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品头灯，背景清除为纯白",
+    "id": "0077",
+    "images": [
+      "images/product_extract/0077_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品蕾丝内裤，背景清除为纯白",
+    "id": "0078",
+    "images": [
+      "images/product_extract/0078_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品宇航员闹钟，背景清除为纯白",
+    "id": "0079",
+    "images": [
+      "images/product_extract/0079_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的马甲从背景中分离，放置在干净的白色背景上",
+    "id": "0080",
+    "images": [
+      "images/product_extract/0080_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图片中的绿色染发剂提取出来，背景改为浅灰色",
+    "id": "0081",
+    "images": [
+      "images/product_extract/0081_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品婴儿口水巾，背景清除为纯白",
+    "id": "0082",
+    "images": [
+      "images/product_extract/0082_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的运动鞋单独提取出来，去掉原有背景，放在白色背景上",
+    "id": "0083",
+    "images": [
+      "images/product_extract/0083_0.png"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品玩具手枪，背景清除为纯白",
+    "id": "0084",
+    "images": [
+      "images/product_extract/0084_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的挂钟抠图处理，背景换为透明或纯色",
+    "id": "0085",
+    "images": [
+      "images/product_extract/0085_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的炒锅单独提取出来，去掉原有背景，放在白色背景上",
+    "id": "0086",
+    "images": [
+      "images/product_extract/0086_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的金卡抠出来，背景替换为白色",
+    "id": "0087",
+    "images": [
+      "images/product_extract/0087_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品白色吸顶灯，背景清除为纯白",
+    "id": "0088",
+    "images": [
+      "images/product_extract/0088_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的电子万年历，生成白底商品图",
+    "id": "0089",
+    "images": [
+      "images/product_extract/0089_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图片中的茶叶包装袋提取出来，背景改为浅灰色",
+    "id": "0090",
+    "images": [
+      "images/product_extract/0090_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的星空投影仪，生成白底商品图",
+    "id": "0091",
+    "images": [
+      "images/product_extract/0091_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的红色毛绒暖手宝抠图处理，背景换为透明或纯色",
+    "id": "0092",
+    "images": [
+      "images/product_extract/0092_0.jpg"
+    ]
+  },
+  {
+    "prompt": "提取图中的主体商品卫生巾，背景清除为纯白",
+    "id": "0093",
+    "images": [
+      "images/product_extract/0093_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的电视单独提取出来，去掉原有背景，放在白色背景上",
+    "id": "0094",
+    "images": [
+      "images/product_extract/0094_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的黑色手提包从背景中分离，放置在干净的白色背景上",
+    "id": "0095",
+    "images": [
+      "images/product_extract/0095_0.png"
+    ]
+  },
+  {
+    "prompt": "把图片中的车载充电器提取出来，背景改为浅灰色",
+    "id": "0096",
+    "images": [
+      "images/product_extract/0096_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图片中的白色运动鞋提取出来，背景改为浅灰色",
+    "id": "0097",
+    "images": [
+      "images/product_extract/0097_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的绿色羽绒服提取出来，放在纯白色背景上",
+    "id": "0098",
+    "images": [
+      "images/product_extract/0098_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中的白色运动鞋从背景中分离，放置在干净的白色背景上",
+    "id": "0099",
+    "images": [
+      "images/product_extract/0099_0.png"
+    ]
+  }
+]

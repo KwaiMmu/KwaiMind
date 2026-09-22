@@ -1,0 +1,802 @@
+[
+  {
+    "prompt": "让模特穿上图1中这双黑色简约平底凉鞋。",
+    "id": "0000",
+    "images": [
+      "images/universal_wearing/0000_0.jpg",
+      "images/universal_wearing/0000_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这条浅绿色圆珠手链。",
+    "id": "0001",
+    "images": [
+      "images/universal_wearing/0001_0.jpg",
+      "images/universal_wearing/0001_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这副黑色开放式无线耳机。",
+    "id": "0002",
+    "images": [
+      "images/universal_wearing/0002_0.jpg",
+      "images/universal_wearing/0002_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这款红色透明表盘的机械手表。",
+    "id": "0003",
+    "images": [
+      "images/universal_wearing/0003_0.jpg",
+      "images/universal_wearing/0003_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这条带四叶草吊坠的精致项链。",
+    "id": "0004",
+    "images": [
+      "images/universal_wearing/0004_0.jpg",
+      "images/universal_wearing/0004_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双带浅蓝和粉色点缀的黑色运动鞋。",
+    "id": "0005",
+    "images": [
+      "images/universal_wearing/0005_0.jpg",
+      "images/universal_wearing/0005_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双奶油色毛绒棉拖鞋。",
+    "id": "0006",
+    "images": [
+      "images/universal_wearing/0006_0.png",
+      "images/universal_wearing/0006_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双橙黄色针织运动鞋。",
+    "id": "0007",
+    "images": [
+      "images/universal_wearing/0007_0.jpg",
+      "images/universal_wearing/0007_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双米色高帮运动鞋。",
+    "id": "0008",
+    "images": [
+      "images/universal_wearing/0008_0.jpg",
+      "images/universal_wearing/0008_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这款红色皮带、银色表壳带太阳图案的手表。",
+    "id": "0009",
+    "images": [
+      "images/universal_wearing/0009_0.jpg",
+      "images/universal_wearing/0009_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双黑白配色带扣带的户外童鞋。",
+    "id": "0010",
+    "images": [
+      "images/universal_wearing/0010_0.jpg",
+      "images/universal_wearing/0010_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这款方形银色表盘、黑色皮带的计时手表。",
+    "id": "0011",
+    "images": [
+      "images/universal_wearing/0011_0.jpg",
+      "images/universal_wearing/0011_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特把图1中这个金属圆环黑色皮绳钥匙扣挂在裤子腰间。",
+    "id": "0012",
+    "images": [
+      "images/universal_wearing/0012_0.jpg",
+      "images/universal_wearing/0012_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双带红色点缀的黑色网面运动鞋。",
+    "id": "0013",
+    "images": [
+      "images/universal_wearing/0013_0.jpg",
+      "images/universal_wearing/0013_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这条带四叶草和中国结吊饰的金色手链。",
+    "id": "0014",
+    "images": [
+      "images/universal_wearing/0014_0.jpg",
+      "images/universal_wearing/0014_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这顶宽檐渔夫帽。",
+    "id": "0015",
+    "images": [
+      "images/universal_wearing/0015_0.jpg",
+      "images/universal_wearing/0015_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这款带金色珠饰的红色手链。",
+    "id": "0016",
+    "images": [
+      "images/universal_wearing/0016_0.jpg",
+      "images/universal_wearing/0016_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双黑色皮鞋。",
+    "id": "0017",
+    "images": [
+      "images/universal_wearing/0017_0.jpg",
+      "images/universal_wearing/0017_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双带毛绒饰边的黑色短靴。",
+    "id": "0018",
+    "images": [
+      "images/universal_wearing/0018_0.jpg",
+      "images/universal_wearing/0018_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这款白色透明表盘的手表。",
+    "id": "0019",
+    "images": [
+      "images/universal_wearing/0019_0.jpg",
+      "images/universal_wearing/0019_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这款黑色骷髅造型的全脸面具。",
+    "id": "0020",
+    "images": [
+      "images/universal_wearing/0020_0.jpg",
+      "images/universal_wearing/0020_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这对绿色宝石镶钻金色耳环。",
+    "id": "0021",
+    "images": [
+      "images/universal_wearing/0021_0.jpg",
+      "images/universal_wearing/0021_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双带花纹的超薄透明丝袜。",
+    "id": "0022",
+    "images": [
+      "images/universal_wearing/0022_0.jpg",
+      "images/universal_wearing/0022_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双白灰配色的网面运动鞋。",
+    "id": "0023",
+    "images": [
+      "images/universal_wearing/0023_0.jpg",
+      "images/universal_wearing/0023_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双黑色漆皮乐福鞋。",
+    "id": "0024",
+    "images": [
+      "images/universal_wearing/0024_0.jpg",
+      "images/universal_wearing/0024_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双带魔术贴的儿童雪地靴。",
+    "id": "0025",
+    "images": [
+      "images/universal_wearing/0025_0.jpg",
+      "images/universal_wearing/0025_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这条精致的金色珠链手链。",
+    "id": "0026",
+    "images": [
+      "images/universal_wearing/0026_0.jpg",
+      "images/universal_wearing/0026_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这款银色表盘的金属计时手表。",
+    "id": "0027",
+    "images": [
+      "images/universal_wearing/0027_0.jpg",
+      "images/universal_wearing/0027_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双黑鞋带的白色帆布鞋。",
+    "id": "0028",
+    "images": [
+      "images/universal_wearing/0028_0.jpg",
+      "images/universal_wearing/0028_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这款黑色表盘、不锈钢表链带旋转表圈的手表。",
+    "id": "0029",
+    "images": [
+      "images/universal_wearing/0029_0.jpg",
+      "images/universal_wearing/0029_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双棕褐色高帮登山鞋。",
+    "id": "0030",
+    "images": [
+      "images/universal_wearing/0030_0.jpg",
+      "images/universal_wearing/0030_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双亮蓝色网面运动鞋。",
+    "id": "0031",
+    "images": [
+      "images/universal_wearing/0031_0.jpg",
+      "images/universal_wearing/0031_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这条带龙头造型的金色手镯。",
+    "id": "0032",
+    "images": [
+      "images/universal_wearing/0032_0.jpg",
+      "images/universal_wearing/0032_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特把图1中这个红色编织皮绳、带利物浦队徽吊饰的钥匙扣挂在裤子腰间。",
+    "id": "0033",
+    "images": [
+      "images/universal_wearing/0033_0.jpg",
+      "images/universal_wearing/0033_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这条光亮的金色手镯。",
+    "id": "0034",
+    "images": [
+      "images/universal_wearing/0034_0.jpg",
+      "images/universal_wearing/0034_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双浅棕色高帮系带鞋。",
+    "id": "0035",
+    "images": [
+      "images/universal_wearing/0035_0.jpg",
+      "images/universal_wearing/0035_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这条带金色小动物吊饰的红色中国结手绳。",
+    "id": "0036",
+    "images": [
+      "images/universal_wearing/0036_0.jpg",
+      "images/universal_wearing/0036_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这款粉色硅胶表带、玫瑰金表壳的手表。",
+    "id": "0037",
+    "images": [
+      "images/universal_wearing/0037_0.jpg",
+      "images/universal_wearing/0037_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双带横带的白色厚底一脚蹬鞋。",
+    "id": "0038",
+    "images": [
+      "images/universal_wearing/0038_0.jpg",
+      "images/universal_wearing/0038_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这款黑盘金色罗马字、镶钻的奢华手表。",
+    "id": "0039",
+    "images": [
+      "images/universal_wearing/0039_0.jpg",
+      "images/universal_wearing/0039_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双黑色宽带厚底拖鞋。",
+    "id": "0040",
+    "images": [
+      "images/universal_wearing/0040_0.jpg",
+      "images/universal_wearing/0040_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双一黑一棕的厚底短靴。",
+    "id": "0041",
+    "images": [
+      "images/universal_wearing/0041_0.jpg",
+      "images/universal_wearing/0041_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双带绿色方块点缀的白色厚底凉鞋。",
+    "id": "0042",
+    "images": [
+      "images/universal_wearing/0042_0.jpg",
+      "images/universal_wearing/0042_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这款彩色编织表带的运动电子手表。",
+    "id": "0043",
+    "images": [
+      "images/universal_wearing/0043_0.jpg",
+      "images/universal_wearing/0043_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这款红色透明表盘的方形机械手表。",
+    "id": "0044",
+    "images": [
+      "images/universal_wearing/0044_0.jpg",
+      "images/universal_wearing/0044_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这款白色表盘镶钻、金属表带的奢华手表。",
+    "id": "0045",
+    "images": [
+      "images/universal_wearing/0045_0.jpg",
+      "images/universal_wearing/0045_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这款金银表带、金色圆盘的手表。",
+    "id": "0046",
+    "images": [
+      "images/universal_wearing/0046_0.jpg",
+      "images/universal_wearing/0046_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这款金银相间表链、金色表盘的手表。",
+    "id": "0047",
+    "images": [
+      "images/universal_wearing/0047_0.jpg",
+      "images/universal_wearing/0047_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这款白盘金饰罗马字、黑色皮带的手表。",
+    "id": "0048",
+    "images": [
+      "images/universal_wearing/0048_0.jpg",
+      "images/universal_wearing/0048_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这款橙黑配色透明表盘的运动机械手表。",
+    "id": "0049",
+    "images": [
+      "images/universal_wearing/0049_0.jpg",
+      "images/universal_wearing/0049_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这条带玫瑰花方形吊坠的金色项链。",
+    "id": "0050",
+    "images": [
+      "images/universal_wearing/0050_0.jpg",
+      "images/universal_wearing/0050_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这两条银色手链。",
+    "id": "0051",
+    "images": [
+      "images/universal_wearing/0051_0.jpg",
+      "images/universal_wearing/0051_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这枚带雕花纹路的金色戒指。",
+    "id": "0052",
+    "images": [
+      "images/universal_wearing/0052_0.jpg",
+      "images/universal_wearing/0052_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这条镶宝石蝴蝶结吊坠的金色项链。",
+    "id": "0053",
+    "images": [
+      "images/universal_wearing/0053_0.jpg",
+      "images/universal_wearing/0053_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这条卡通小猴吊坠的金色项链。",
+    "id": "0054",
+    "images": [
+      "images/universal_wearing/0054_0.jpg",
+      "images/universal_wearing/0054_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这条串珠纹理的金色手链。",
+    "id": "0055",
+    "images": [
+      "images/universal_wearing/0055_0.jpg",
+      "images/universal_wearing/0055_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这两条带蛇形金饰的红黑编织手链。",
+    "id": "0056",
+    "images": [
+      "images/universal_wearing/0056_0.jpg",
+      "images/universal_wearing/0056_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这两条带龙凤圆形吊坠的项链。",
+    "id": "0057",
+    "images": [
+      "images/universal_wearing/0057_0.jpg",
+      "images/universal_wearing/0057_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这两枚交织设计的金色戒指。",
+    "id": "0058",
+    "images": [
+      "images/universal_wearing/0058_0.jpg",
+      "images/universal_wearing/0058_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这枚抛光金色戒指。",
+    "id": "0059",
+    "images": [
+      "images/universal_wearing/0059_0.jpg",
+      "images/universal_wearing/0059_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这套带方形吊坠的金色项链和耳环。",
+    "id": "0060",
+    "images": [
+      "images/universal_wearing/0060_0.jpg",
+      "images/universal_wearing/0060_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特手提图1中这个红色提手的透明托特包。",
+    "id": "0061",
+    "images": [
+      "images/universal_wearing/0061_0.jpg",
+      "images/universal_wearing/0061_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特手提图1中这个小熊图案的托特包。",
+    "id": "0062",
+    "images": [
+      "images/universal_wearing/0062_0.jpg",
+      "images/universal_wearing/0062_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特手提图1中这个米色小熊脸图案的托特包。",
+    "id": "0063",
+    "images": [
+      "images/universal_wearing/0063_0.jpg",
+      "images/universal_wearing/0063_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特手提图1中这个粉色编织提手的手袋。",
+    "id": "0064",
+    "images": [
+      "images/universal_wearing/0064_0.jpg",
+      "images/universal_wearing/0064_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特背上图1中这个蓝白配色的双肩背包。",
+    "id": "0065",
+    "images": [
+      "images/universal_wearing/0065_0.jpg",
+      "images/universal_wearing/0065_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这顶带白色图案的黑色渔夫帽。",
+    "id": "0066",
+    "images": [
+      "images/universal_wearing/0066_0.jpg",
+      "images/universal_wearing/0066_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这条带Adidas标志的白色发带。",
+    "id": "0067",
+    "images": [
+      "images/universal_wearing/0067_0.jpg",
+      "images/universal_wearing/0067_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这顶黑色棒球帽。",
+    "id": "0068",
+    "images": [
+      "images/universal_wearing/0068_0.jpg",
+      "images/universal_wearing/0068_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这顶白底黑纹的渔夫帽。",
+    "id": "0069",
+    "images": [
+      "images/universal_wearing/0069_0.jpg",
+      "images/universal_wearing/0069_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双白色罗纹短袜。",
+    "id": "0070",
+    "images": [
+      "images/universal_wearing/0070_0.jpg",
+      "images/universal_wearing/0070_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双深灰配白的罗纹袜。",
+    "id": "0071",
+    "images": [
+      "images/universal_wearing/0071_0.jpg",
+      "images/universal_wearing/0071_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双肤色透明连裤袜。",
+    "id": "0072",
+    "images": [
+      "images/universal_wearing/0072_0.jpg",
+      "images/universal_wearing/0072_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特穿上图1中这双彩色波点粉色袜子。",
+    "id": "0073",
+    "images": [
+      "images/universal_wearing/0073_0.jpg",
+      "images/universal_wearing/0073_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这副黑框墨镜。",
+    "id": "0074",
+    "images": [
+      "images/universal_wearing/0074_0.jpg",
+      "images/universal_wearing/0074_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这双黑白纹理的手套。",
+    "id": "0075",
+    "images": [
+      "images/universal_wearing/0075_0.jpg",
+      "images/universal_wearing/0075_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特系上图1中这条金属扣的黑色皮腰带。",
+    "id": "0076",
+    "images": [
+      "images/universal_wearing/0076_0.jpg",
+      "images/universal_wearing/0076_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这枚带金饰的发夹。",
+    "id": "0077",
+    "images": [
+      "images/universal_wearing/0077_0.jpg",
+      "images/universal_wearing/0077_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这副黑框金饰变色眼镜。",
+    "id": "0078",
+    "images": [
+      "images/universal_wearing/0078_0.jpg",
+      "images/universal_wearing/0078_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特把图1中这个金属钥匙扣挂在包上。",
+    "id": "0079",
+    "images": [
+      "images/universal_wearing/0079_0.jpg",
+      "images/universal_wearing/0079_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这顶带透气孔的黑色棒球帽。",
+    "id": "0080",
+    "images": [
+      "images/universal_wearing/0080_0.jpg",
+      "images/universal_wearing/0080_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这顶白身藏青帽檐的棒球帽。",
+    "id": "0081",
+    "images": [
+      "images/universal_wearing/0081_0.jpg",
+      "images/universal_wearing/0081_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这顶芥末黄棒球帽。",
+    "id": "0082",
+    "images": [
+      "images/universal_wearing/0082_0.jpg",
+      "images/universal_wearing/0082_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这顶米色网眼棒球帽。",
+    "id": "0083",
+    "images": [
+      "images/universal_wearing/0083_0.jpg",
+      "images/universal_wearing/0083_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这顶带\"Discover\"刺绣的深灰做旧棒球帽。",
+    "id": "0084",
+    "images": [
+      "images/universal_wearing/0084_0.jpg",
+      "images/universal_wearing/0084_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这顶带两个毛球的酒红色针织帽。",
+    "id": "0085",
+    "images": [
+      "images/universal_wearing/0085_0.jpg",
+      "images/universal_wearing/0085_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这顶带小熊刺绣的米色蓝檐棒球帽。",
+    "id": "0086",
+    "images": [
+      "images/universal_wearing/0086_0.jpg",
+      "images/universal_wearing/0086_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这顶带毛球和字母\"R\"的橙色针织帽。",
+    "id": "0087",
+    "images": [
+      "images/universal_wearing/0087_0.jpg",
+      "images/universal_wearing/0087_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这顶米色彩条装饰的渔夫帽。",
+    "id": "0088",
+    "images": [
+      "images/universal_wearing/0088_0.jpg",
+      "images/universal_wearing/0088_1.jpg"
+    ]
+  },
+  {
+    "prompt": "给模特戴上图1中这顶宽檐草帽。",
+    "id": "0089",
+    "images": [
+      "images/universal_wearing/0089_0.jpg",
+      "images/universal_wearing/0089_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特单肩背图1中这个棕金字母图案带蝴蝶结的手袋。",
+    "id": "0090",
+    "images": [
+      "images/universal_wearing/0090_0.jpg",
+      "images/universal_wearing/0090_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特手提图1中这个红白配色的时尚手袋。",
+    "id": "0091",
+    "images": [
+      "images/universal_wearing/0091_0.jpg",
+      "images/universal_wearing/0091_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特背上图1中这个米棕双色皮扣双肩背包。",
+    "id": "0092",
+    "images": [
+      "images/universal_wearing/0092_0.jpg",
+      "images/universal_wearing/0092_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特手提图1中这个棕色多口袋帆布托特包。",
+    "id": "0093",
+    "images": [
+      "images/universal_wearing/0093_0.jpg",
+      "images/universal_wearing/0093_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特背上图1中这个白黑配色带云朵挂饰的双肩背包。",
+    "id": "0094",
+    "images": [
+      "images/universal_wearing/0094_0.jpg",
+      "images/universal_wearing/0094_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特单肩背图1中这个白棕配色带小熊挂饰的手袋。",
+    "id": "0095",
+    "images": [
+      "images/universal_wearing/0095_0.jpg",
+      "images/universal_wearing/0095_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特背上图1中这个米色棕菱格双肩背包。",
+    "id": "0096",
+    "images": [
+      "images/universal_wearing/0096_0.jpg",
+      "images/universal_wearing/0096_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特手提图1中这个金属配件的灰色皮手袋。",
+    "id": "0097",
+    "images": [
+      "images/universal_wearing/0097_0.jpg",
+      "images/universal_wearing/0097_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特单肩背图1中这个棕色老花配金属件的手袋。",
+    "id": "0098",
+    "images": [
+      "images/universal_wearing/0098_0.jpg",
+      "images/universal_wearing/0098_1.jpg"
+    ]
+  },
+  {
+    "prompt": "让模特手提图1中这个涂鸦小熊图案的圆筒手袋。",
+    "id": "0099",
+    "images": [
+      "images/universal_wearing/0099_0.jpg",
+      "images/universal_wearing/0099_1.jpg"
+    ]
+  }
+]

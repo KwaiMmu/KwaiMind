@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+.env
+outputs/
+checkpoints/
+images/
+# The bundled smoke example ships one generated, copyright-free placeholder.
+!examples/images/
+!examples/images/input.jpg
+*.safetensors

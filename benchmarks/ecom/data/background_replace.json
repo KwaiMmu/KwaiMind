@@ -1,0 +1,702 @@
+[
+  {
+    "prompt": "将图中深灰色保暖内衣套装的拍摄背景替换为复古风格场景",
+    "id": "0000",
+    "images": [
+      "images/background_replace/0000_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中头盔的背景替换为城市街道背景",
+    "id": "0001",
+    "images": [
+      "images/background_replace/0001_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中蓝牙音箱的拍摄背景替换为户外草地自然场景",
+    "id": "0002",
+    "images": [
+      "images/background_replace/0002_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中手镯的拍摄背景替换为城市街道背景",
+    "id": "0003",
+    "images": [
+      "images/background_replace/0003_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保持图中黑芝麻不变，将背景替换成温馨家居环境场景",
+    "id": "0004",
+    "images": [
+      "images/background_replace/0004_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中戒指的拍摄背景替换为高端精致的展示台",
+    "id": "0005",
+    "images": [
+      "images/background_replace/0005_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中笔记本电脑的背景改为森林绿植环境",
+    "id": "0006",
+    "images": [
+      "images/background_replace/0006_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保留图中的纸巾，把背景换成森林绿植环境",
+    "id": "0007",
+    "images": [
+      "images/background_replace/0007_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图片背景换为渐变纯色背景，保持面膜原样",
+    "id": "0008",
+    "images": [
+      "images/background_replace/0008_0.jpg"
+    ]
+  },
+  {
+    "prompt": "更换图片背景为城市街道背景，商品粉色不锈钢保温饭盒保持不变",
+    "id": "0009",
+    "images": [
+      "images/background_replace/0009_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保持图中儿童泳衣不变，将背景替换成高端精致的展示台场景",
+    "id": "0010",
+    "images": [
+      "images/background_replace/0010_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的白色蒸脸仪放置到清新北欧风室内的背景中",
+    "id": "0011",
+    "images": [
+      "images/background_replace/0011_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中浴霸的背景替换为清新北欧风室内",
+    "id": "0012",
+    "images": [
+      "images/background_replace/0012_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保持图中儿童书籍不变，将背景替换成清新北欧风室内场景",
+    "id": "0013",
+    "images": [
+      "images/background_replace/0013_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中红色老北京布鞋的背景改为复古风格场景",
+    "id": "0014",
+    "images": [
+      "images/background_replace/0014_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中四个不同尺寸的蓝色塑料水桶的拍摄背景替换为简洁的工作室白色背景",
+    "id": "0015",
+    "images": [
+      "images/background_replace/0015_0.jpg"
+    ]
+  },
+  {
+    "prompt": "更换图片背景为温馨家居环境，商品蓝色N95口罩保持不变",
+    "id": "0016",
+    "images": [
+      "images/background_replace/0016_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中车载蓝牙播放器的拍摄背景替换为现代简约室内",
+    "id": "0017",
+    "images": [
+      "images/background_replace/0017_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中玻璃杯的拍摄背景替换为简洁的工作室白色背景",
+    "id": "0018",
+    "images": [
+      "images/background_replace/0018_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的升降椅放置到温馨家居环境的背景中",
+    "id": "0019",
+    "images": [
+      "images/background_replace/0019_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的红色手机壳放置到现代商业展示空间的背景中",
+    "id": "0020",
+    "images": [
+      "images/background_replace/0020_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中正畸保护蜡的背景改为清新北欧风室内",
+    "id": "0021",
+    "images": [
+      "images/background_replace/0021_0.jpg"
+    ]
+  },
+  {
+    "prompt": "更换图片背景为简洁的工作室白色背景，商品能量棒保持不变",
+    "id": "0022",
+    "images": [
+      "images/background_replace/0022_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中男士休闲套装的拍摄背景替换为城市街道背景",
+    "id": "0023",
+    "images": [
+      "images/background_replace/0023_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图片背景换为森林绿植环境，保持凝胶坐垫原样",
+    "id": "0024",
+    "images": [
+      "images/background_replace/0024_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的多功能可折叠防风晾晒架放置到清新北欧风室内的背景中",
+    "id": "0025",
+    "images": [
+      "images/background_replace/0025_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保留图中的防晒霜，把背景换成复古风格场景",
+    "id": "0026",
+    "images": [
+      "images/background_replace/0026_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保持图中除菌卡不变，将背景替换成渐变纯色背景场景",
+    "id": "0027",
+    "images": [
+      "images/background_replace/0027_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中白色无线耳机的拍摄背景替换为海滩沙滩场景",
+    "id": "0028",
+    "images": [
+      "images/background_replace/0028_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中黑色魔术贴的背景替换为简洁的工作室白色背景",
+    "id": "0029",
+    "images": [
+      "images/background_replace/0029_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保留图中的金属U盘，把背景换成渐变纯色背景",
+    "id": "0030",
+    "images": [
+      "images/background_replace/0030_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图片背景换为复古风格场景，保持黑色皮鞋原样",
+    "id": "0031",
+    "images": [
+      "images/background_replace/0031_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中吸顶风扇灯的拍摄背景替换为海滩沙滩场景",
+    "id": "0032",
+    "images": [
+      "images/background_replace/0032_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保留图中的手链，把背景换成现代简约室内",
+    "id": "0033",
+    "images": [
+      "images/background_replace/0033_0.jpg"
+    ]
+  },
+  {
+    "prompt": "更换图片背景为现代商业展示空间，商品抽绳束口化妆包保持不变",
+    "id": "0034",
+    "images": [
+      "images/background_replace/0034_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保留图中的黑色唐横刀，把背景换成高端精致的展示台",
+    "id": "0035",
+    "images": [
+      "images/background_replace/0035_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的黑色蓝牙音箱放置到复古风格场景的背景中",
+    "id": "0036",
+    "images": [
+      "images/background_replace/0036_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中主板和CPU套装的背景替换为城市街道背景",
+    "id": "0037",
+    "images": [
+      "images/background_replace/0037_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图片背景换为现代商业展示空间，保持防晒霜原样",
+    "id": "0038",
+    "images": [
+      "images/background_replace/0038_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中照片塑封膜的拍摄背景替换为户外草地自然场景",
+    "id": "0039",
+    "images": [
+      "images/background_replace/0039_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中碎花连衣裙的背景改为森林绿植环境",
+    "id": "0040",
+    "images": [
+      "images/background_replace/0040_0.png"
+    ]
+  },
+  {
+    "prompt": "更换图片背景为现代商业展示空间，商品黑色手机壳保持不变",
+    "id": "0041",
+    "images": [
+      "images/background_replace/0041_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图片背景换为渐变纯色背景，保持床垫原样",
+    "id": "0042",
+    "images": [
+      "images/background_replace/0042_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的婴儿连体衣放置到复古风格场景的背景中",
+    "id": "0043",
+    "images": [
+      "images/background_replace/0043_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中排气扇的背景改为渐变纯色背景",
+    "id": "0044",
+    "images": [
+      "images/background_replace/0044_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保留图中的红色印花连衣裙，把背景换成清新北欧风室内",
+    "id": "0045",
+    "images": [
+      "images/background_replace/0045_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中摩托车手套的拍摄背景替换为渐变纯色背景",
+    "id": "0046",
+    "images": [
+      "images/background_replace/0046_0.jpg"
+    ]
+  },
+  {
+    "prompt": "更换图片背景为渐变纯色背景，商品洞洞板书桌保持不变",
+    "id": "0047",
+    "images": [
+      "images/background_replace/0047_0.jpg"
+    ]
+  },
+  {
+    "prompt": "更换图片背景为清新北欧风室内，商品户外露营灯保持不变",
+    "id": "0048",
+    "images": [
+      "images/background_replace/0048_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中棕色无袖T恤的拍摄背景替换为户外草地自然场景",
+    "id": "0049",
+    "images": [
+      "images/background_replace/0049_0.jpg"
+    ]
+  },
+  {
+    "prompt": "更换图片背景为城市街道背景，商品味精保持不变",
+    "id": "0050",
+    "images": [
+      "images/background_replace/0050_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保持图中的大米不变，将背景替换成户外草地自然场景",
+    "id": "0051",
+    "images": [
+      "images/background_replace/0051_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图片背景换为现代商业展示空间，保持充电器原样",
+    "id": "0052",
+    "images": [
+      "images/background_replace/0052_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保持图中深蓝色皮包不变，将背景替换成清新北欧风室内场景",
+    "id": "0053",
+    "images": [
+      "images/background_replace/0053_0.png"
+    ]
+  },
+  {
+    "prompt": "将图中香水礼盒的拍摄背景替换为现代商业展示空间",
+    "id": "0054",
+    "images": [
+      "images/background_replace/0054_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的白色灭蚊灯放置到森林绿植环境的背景中",
+    "id": "0055",
+    "images": [
+      "images/background_replace/0055_0.jpg"
+    ]
+  },
+  {
+    "prompt": "更换图片背景为海滩沙滩场景，商品汽车坐垫保持不变",
+    "id": "0056",
+    "images": [
+      "images/background_replace/0056_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保持图中牛仔布水桶包不变，将背景替换成海滩沙滩场景场景",
+    "id": "0057",
+    "images": [
+      "images/background_replace/0057_0.png"
+    ]
+  },
+  {
+    "prompt": "将图中太阳能香薰停车牌的背景替换为清新北欧风室内",
+    "id": "0058",
+    "images": [
+      "images/background_replace/0058_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图片背景换为复古风格场景，保持印花手提袋原样",
+    "id": "0059",
+    "images": [
+      "images/background_replace/0059_0.png"
+    ]
+  },
+  {
+    "prompt": "更换图片背景为清新北欧风室内，商品主板和CPU套装保持不变",
+    "id": "0060",
+    "images": [
+      "images/background_replace/0060_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保留图中的牛仔裤，把背景换成复古风格场景",
+    "id": "0061",
+    "images": [
+      "images/background_replace/0061_0.png"
+    ]
+  },
+  {
+    "prompt": "将图片背景换为清新北欧风室内，保持红色双层巴士积木原样",
+    "id": "0062",
+    "images": [
+      "images/background_replace/0062_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中蓝色儿童运动鞋的背景替换为复古风格场景",
+    "id": "0063",
+    "images": [
+      "images/background_replace/0063_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保持图中内衣不变，将背景替换成渐变纯色背景场景",
+    "id": "0064",
+    "images": [
+      "images/background_replace/0064_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中浅蓝色运动裤的背景替换为现代简约室内",
+    "id": "0065",
+    "images": [
+      "images/background_replace/0065_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中悬浮地球仪的背景替换为森林绿植环境",
+    "id": "0066",
+    "images": [
+      "images/background_replace/0066_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中盆栽花卉的背景改为森林绿植环境",
+    "id": "0067",
+    "images": [
+      "images/background_replace/0067_0.png"
+    ]
+  },
+  {
+    "prompt": "将图片背景换为温馨家居环境，保持黑色金属栅栏原样",
+    "id": "0068",
+    "images": [
+      "images/background_replace/0068_0.jpg"
+    ]
+  },
+  {
+    "prompt": "更换图片背景为现代简约室内，商品松果菊保持不变",
+    "id": "0069",
+    "images": [
+      "images/background_replace/0069_0.jpg"
+    ]
+  },
+  {
+    "prompt": "更换图片背景为复古风格场景，商品灰色U型枕保持不变",
+    "id": "0070",
+    "images": [
+      "images/background_replace/0070_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保持图中黑色智能手表不变，将背景替换成森林绿植环境场景",
+    "id": "0071",
+    "images": [
+      "images/background_replace/0071_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中纯牛奶的背景改为清新北欧风室内",
+    "id": "0072",
+    "images": [
+      "images/background_replace/0072_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保持图中清洁刷不变，将背景替换成现代简约室内场景",
+    "id": "0073",
+    "images": [
+      "images/background_replace/0073_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保留图中的木质双人床，把背景换成复古风格场景",
+    "id": "0074",
+    "images": [
+      "images/background_replace/0074_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中人参桑葚黑枸杞茶的背景替换为渐变纯色背景",
+    "id": "0075",
+    "images": [
+      "images/background_replace/0075_0.png"
+    ]
+  },
+  {
+    "prompt": "更换图片背景为海滩沙滩场景，商品茶具套装保持不变",
+    "id": "0076",
+    "images": [
+      "images/background_replace/0076_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中拖把和替换装的拍摄背景替换为高端精致的展示台",
+    "id": "0077",
+    "images": [
+      "images/background_replace/0077_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保持图中偏光镜不变，将背景替换成现代简约室内场景",
+    "id": "0078",
+    "images": [
+      "images/background_replace/0078_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中蕾丝吊带睡衣的拍摄背景替换为温馨家居环境",
+    "id": "0079",
+    "images": [
+      "images/background_replace/0079_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的紫色长裤放置到高端精致的展示台的背景中",
+    "id": "0080",
+    "images": [
+      "images/background_replace/0080_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中浅蓝色运动鞋的拍摄背景替换为温馨家居环境",
+    "id": "0081",
+    "images": [
+      "images/background_replace/0081_0.png"
+    ]
+  },
+  {
+    "prompt": "把图中红色垃圾桶的背景改为温馨家居环境",
+    "id": "0082",
+    "images": [
+      "images/background_replace/0082_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中白色冰柜的拍摄背景替换为现代商业展示空间",
+    "id": "0083",
+    "images": [
+      "images/background_replace/0083_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图片背景换为城市街道背景，保持白色一次性纯棉内裤原样",
+    "id": "0084",
+    "images": [
+      "images/background_replace/0084_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保持图中卫生棉条不变，将背景替换成户外草地自然场景",
+    "id": "0085",
+    "images": [
+      "images/background_replace/0085_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图片背景换为现代商业展示空间，保持深灰色休闲套装原样",
+    "id": "0086",
+    "images": [
+      "images/background_replace/0086_0.png"
+    ]
+  },
+  {
+    "prompt": "更换图片背景为高端精致的展示台，商品手表保持不变",
+    "id": "0087",
+    "images": [
+      "images/background_replace/0087_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中车载香水的拍摄背景替换为现代商业展示空间",
+    "id": "0088",
+    "images": [
+      "images/background_replace/0088_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中哈利波特书籍的背景改为户外草地自然场景",
+    "id": "0089",
+    "images": [
+      "images/background_replace/0089_0.jpg"
+    ]
+  },
+  {
+    "prompt": "保持图中奥利奥夹心软饼干不变，将背景替换成户外草地自然场景",
+    "id": "0090",
+    "images": [
+      "images/background_replace/0090_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的黑色西装裤放置到清新北欧风室内的背景中",
+    "id": "0091",
+    "images": [
+      "images/background_replace/0091_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中太谷饼的拍摄背景替换为渐变纯色背景",
+    "id": "0092",
+    "images": [
+      "images/background_replace/0092_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图片背景换为简洁的工作室白色背景，保持绿色印花布料原样",
+    "id": "0093",
+    "images": [
+      "images/background_replace/0093_0.png"
+    ]
+  },
+  {
+    "prompt": "更换图片背景为海滩沙滩场景，商品玫瑰金蝴蝶手链保持不变",
+    "id": "0094",
+    "images": [
+      "images/background_replace/0094_0.jpg"
+    ]
+  },
+  {
+    "prompt": "更换图片背景为户外草地自然场景，商品儿童保温杯保持不变",
+    "id": "0095",
+    "images": [
+      "images/background_replace/0095_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图片背景换为简洁的工作室白色背景，保持美睫镊子原样",
+    "id": "0096",
+    "images": [
+      "images/background_replace/0096_0.jpg"
+    ]
+  },
+  {
+    "prompt": "将图中辣味零食的拍摄背景替换为复古风格场景",
+    "id": "0097",
+    "images": [
+      "images/background_replace/0097_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中的黑色蓝牙耳机放置到户外草地自然场景的背景中",
+    "id": "0098",
+    "images": [
+      "images/background_replace/0098_0.jpg"
+    ]
+  },
+  {
+    "prompt": "把图中8口FC光纤终端盒满配的背景改为温馨家居环境",
+    "id": "0099",
+    "images": [
+      "images/background_replace/0099_0.jpg"
+    ]
+  }
+]
