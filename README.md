@@ -224,11 +224,16 @@ We would like to thank the developers of [Qwen-Image](https://github.com/QwenLM/
 
 ## Citation
 
+If you find KwaiMind useful in your research, please cite our technical report:
+
 ```bibtex
-@misc{kwaimind2026,
-  title={KwaiMind},
-  author={KwaiMMU Team},
-  year={2026},
-  url={https://github.com/KwaiMmu/KwaiMind}
+@misc{li2026kwaimind,
+  title         = {{KwaiMind} Technical Report},
+  author        = {{KwaiMind Team}},
+  year          = {2026},
+  eprint        = {2609.26375},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2609.26375}
 }
 ```
