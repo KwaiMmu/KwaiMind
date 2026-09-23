@@ -6,6 +6,7 @@
 
 <img src="assets/KwaiMind.png" alt="KwaiMind logo" width="240">
 
+[![arXiv](https://img.shields.io/badge/arXiv-2609.26375-b31b1b.svg)](https://arxiv.org/abs/2609.26375)
 [![Code License](https://img.shields.io/badge/Code-CC_BY--NC--ND_4.0-lightgrey.svg)](LICENSE)
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-Kwai--Ecom--Bench-yellow)](https://huggingface.co/datasets/laziji402/Kwai-Ecom-Bench)
 [![Benchmark](https://img.shields.io/badge/E--com%20Bench-1%2C100%20cases-green)](#e-com-bench)
@@ -22,6 +23,7 @@ This repository provides minimal inference code and reproducible runners for bot
 
 ## News
 
+- **2026.09.23**: We released the KwaiMind inference framework on GitHub.
 - **2026.09.22**: We released the KwaiMind technical report.
 
 ## Results
@@ -157,7 +159,7 @@ Each task is evaluated on four dimensions. The G and E prefixes denote general a
 | Tagline Removal | G1 Comply | E1 Product Id. | E8 Complete | G2 Seamless |
 | Selling Point Display | E7 SellingPt. | E2 TextAcc. | G1 Comply | G6 Aesthetics |
 
-The JSON manifests and judge prompts are included in the [KwaiMind-Ecom-Bench dataset](https://huggingface.co/datasets/laziji402/Kwai-Ecom-Bench). The commands below download it to the sibling directory `../KwaiMind-Ecom-Bench` by default. The runner resolves paths relative to the KwaiMind repository, so it works regardless of the current working directory. You can override the location with `KWAIMIND_ECOM_ROOT` or `--data-root`. The dataset directory must contain `data/*.json`, `judge/task_judge_prompts.jsonl`, and `images/`.
+The JSON manifests and judge prompts are included in the [KwaiMind-Ecom-Bench dataset](https://huggingface.co/datasets/laziji402/Kwai-Ecom-Bench) (coming soon). The commands below download it to the sibling directory `../KwaiMind-Ecom-Bench` by default. The runner resolves paths relative to the KwaiMind repository, so it works regardless of the current working directory. You can override the location with `KWAIMIND_ECOM_ROOT` or `--data-root`. The dataset directory must contain `data/*.json`, `judge/task_judge_prompts.jsonl`, and `images/`.
 
 Download the dataset once. Because the dataset is private, authenticate first with a Hugging Face token that has read access:
 
