@@ -23,7 +23,7 @@ This repository provides minimal inference code and reproducible runners for bot
 
 ## News
 
-- **2026.09.23**: We released the KwaiMind inference framework on GitHub.
+- **2026.09.23**: We released the KwaiMind inference framework on GitHub. Kwai-Ecom-Bench is coming soon.
 - **2026.09.22**: We released the KwaiMind technical report.
 
 ## Results
