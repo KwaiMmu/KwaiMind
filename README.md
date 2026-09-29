@@ -7,7 +7,7 @@
 <img src="assets/KwaiMind.png" alt="KwaiMind logo" width="240">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2609.26375-b31b1b.svg)](https://arxiv.org/abs/2609.26375)
-[![Code License](https://img.shields.io/badge/Code-CC_BY--NC--ND_4.0-lightgrey.svg)](LICENSE)
+[![Code License](https://img.shields.io/badge/Code-Apache_2.0-blue.svg)](LICENSE)
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-Kwai--Ecom--Bench-yellow)](https://huggingface.co/datasets/laziji402/Kwai-Ecom-Bench)
 [![Benchmark](https://img.shields.io/badge/E--com%20Bench-1%2C100%20cases-green)](#e-com-bench)
 
@@ -15,18 +15,19 @@
 
 ---
 
-## Introduction
+## 📖 Introduction
 
 KwaiMind targets the image edits that e-commerce actually needs — background replacement, virtual try-on, selling-point overlays, text editing on product shots — while holding its ground on general-purpose editing benchmarks.
 
-This repository provides minimal inference code and reproducible runners for both the general benchmarks and **E-com Bench**, our 1,100-case e-commerce benchmark. Model weights and benchmark images are distributed separately.
+This repository provides minimal inference code and reproducible runners for both the general benchmarks and **[E-com Bench](https://huggingface.co/datasets/laziji402/Kwai-Ecom-Bench)**, our 1,100-case e-commerce benchmark. Model weights and benchmark images are distributed separately.
 
-## News
+## 📰 News
 
-- **2026.09.23**: We released the KwaiMind inference framework on GitHub. Kwai-Ecom-Bench is coming soon.
-- **2026.09.22**: We released the KwaiMind technical report.
+- **2026.09.29**: We released [Kwai-Ecom-Benchmark](https://huggingface.co/datasets/laziji402/Kwai-Ecom-Bench) 🏆🏆, featuring 1,100 cases across 11 e-commerce image editing tasks.
+- **2026.09.23**: We released the KwaiMind inference framework on GitHub.
+- **2026.09.22**: We released the KwaiMind technical report 🎉🎉.
 
-## Results
+## 📊 Results
 
 Scores on the public general-purpose editing benchmarks. ImgEdit and GEdit are scored with Gemini as judge; REDEdit uses its official bilingual protocol.
 
@@ -34,7 +35,7 @@ Scores on the public general-purpose editing benchmarks. ImgEdit and GEdit are s
 <img src="assets/bench_bars_general.png" alt="General benchmark results" width="100%">
 </div>
 
-On E-com Bench, KwaiMind leads both the judge-scored quality metric and the CTR ranking, which counts how often a model's edit is preferred by a click-through-rate predictor trained on real e-commerce traffic.
+On [E-com Bench](https://huggingface.co/datasets/laziji402/Kwai-Ecom-Bench), KwaiMind leads both the judge-scored quality metric and the CTR ranking, which counts how often a model's edit is preferred by a click-through-rate predictor trained on real e-commerce traffic.
 
 <div align="center">
 <img src="assets/bench_bars_ecom.png" alt="E-com Bench results" width="72%">
@@ -42,7 +43,7 @@ On E-com Bench, KwaiMind leads both the judge-scored quality metric and the CTR 
 
 > Hatched bars mark closed-source models, which we report for reference rather than as the primary comparison.
 
-## Installation
+## 🛠️ Installation
 
 ```bash
 conda create -n kwaimind python=3.12 -y
@@ -53,7 +54,7 @@ pip install -e . --no-deps
 
 The pinned requirements reflect the environment used for evaluation. An NVIDIA GPU with BF16 support is required. The editable install is what puts the `kwaimind` package on the import path, so `examples/infer.py` cannot run without it.
 
-## Inference
+## 🚀 Inference
 
 ```bash
 python examples/infer.py \
@@ -80,7 +81,7 @@ Manifest format:
 
 Multi-image editing uses an ordered `images` list.
 
-### Generation defaults
+### ⚙️ Generation defaults
 
 These defaults reproduce the settings used for the reported benchmark scores. Change them only when you intend to depart from the published numbers.
 
@@ -103,7 +104,7 @@ Two of these change results and are worth understanding:
 
 `zero_cond_t` is enabled at inference regardless of the `zero_cond_t` field in a checkpoint's `config.json`, which reflects the base model's training-time configuration rather than the inference recipe.
 
-## General benchmarks
+## 🎯 General benchmarks
 
 The repository provides adapters for ImgEdit-Bench, REDEdit-Bench, and GEdit-Bench. Download each benchmark from its official source, then convert it to the common manifest format:
 
@@ -122,7 +123,9 @@ python examples/infer.py \
 
 Use each benchmark's official evaluator for reported scores.
 
-## E-com Bench
+<a id="e-com-bench"></a>
+
+## 🛍️ E-com Bench
 
 E-com Bench contains 1,100 cases across 11 e-commerce editing tasks. Two of them take two input images; the rest take one.
 
@@ -141,7 +144,7 @@ E-com Bench contains 1,100 cases across 11 e-commerce editing tasks. Two of them
 | Selling Point Display | `selling_point_display` | 100 | 1 |
 | **Total** | | **1,100** | |
 
-### Evaluation Dimensions
+### 📐 Evaluation Dimensions
 
 Each task is evaluated on four dimensions. The G and E prefixes denote general and e-commerce-specific dimensions, respectively.
 
@@ -159,12 +162,11 @@ Each task is evaluated on four dimensions. The G and E prefixes denote general a
 | Tagline Removal | G1 Comply | E1 Product Id. | E8 Complete | G2 Seamless |
 | Selling Point Display | E7 SellingPt. | E2 TextAcc. | G1 Comply | G6 Aesthetics |
 
-The JSON manifests and judge prompts are included in the [KwaiMind-Ecom-Bench dataset](https://huggingface.co/datasets/laziji402/Kwai-Ecom-Bench) (coming soon). The commands below download it to the sibling directory `../KwaiMind-Ecom-Bench` by default. The runner resolves paths relative to the KwaiMind repository, so it works regardless of the current working directory. You can override the location with `KWAIMIND_ECOM_ROOT` or `--data-root`. The dataset directory must contain `data/*.json`, `judge/task_judge_prompts.jsonl`, and `images/`.
+The input images, JSON manifests, and judge prompts are available in the [Kwai-Ecom-Bench dataset](https://huggingface.co/datasets/laziji402/Kwai-Ecom-Bench). The commands below download it to the sibling directory `../KwaiMind-Ecom-Bench` by default. The runner resolves paths relative to the KwaiMind repository, so it works regardless of the current working directory. You can override the location with `KWAIMIND_ECOM_ROOT` or `--data-root`. The dataset directory must contain `data/*.json`, `judge/task_judge_prompts.jsonl`, and `images/`.
 
-Download the dataset once. Because the dataset is private, authenticate first with a Hugging Face token that has read access:
+Download the public dataset once; no authentication is required:
 
 ```bash
-hf auth login
 bash benchmarks/ecom/download.sh
 ```
 
@@ -202,15 +204,13 @@ bash benchmarks/ecom/run_evaluation.sh \
 
 Images are sent to the configured Gemini API during evaluation. Review your data policy before enabling cloud evaluation. The final score is the mean of per-task scores; each case score is the geometric mean of its four task-specific dimensions.
 
-## License
+## 📄 License
 
-Unless otherwise noted, original KwaiMind code and documentation in this repository are released under [Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](LICENSE).
+Unless otherwise noted, original KwaiMind code and documentation in this repository are released under the [Apache License 2.0](LICENSE).
 
-- Noncommercial use only; commercial use is prohibited under this license.
-- Sharing unmodified licensed materials requires appropriate attribution and compliance with the license terms.
-- The license permits producing and reproducing adapted materials for noncommercial purposes, but does not permit sharing adapted materials.
+The Kwai-Ecom-Bench dataset is licensed separately under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/).
 
-## Showcase
+## 🖼️ Showcase
 
 <div align="center">
   <a href="assets/showcases.pdf">
@@ -222,7 +222,7 @@ Unless otherwise noted, original KwaiMind code and documentation in this reposit
 
 We would like to thank the developers of [Qwen-Image](https://github.com/QwenLM/Qwen-Image), [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio), [ImgEdit](https://github.com/PKU-YuanGroup/ImgEdit), [GEdit-Bench](https://github.com/stepfun-ai/Step1X-Edit), and [REDEdit-Bench](https://github.com/FireRedTeam/FireRed-Image-Edit) for sharing their work with the community.
 
-## Citation
+## 📝 Citation
 
 If you find KwaiMind useful in your research, please cite our technical report:
 
